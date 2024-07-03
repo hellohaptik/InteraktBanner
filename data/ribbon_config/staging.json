@@ -1,0 +1,33 @@
+[
+  {
+    "closeLimit": 1,
+    "id": "ribbon-9-aug-2022",
+    "text": "We have recently changed our pricing plan to make it easier for customers. The new pricing will kick on Sept 15th.",
+    "theme": {
+      "bg": "#006756",
+      "color": "#F8B435"
+    },
+    "TextCompo":{
+      "icon": {
+        "name": "moneyTag",
+        "size": "xs"
+      }
+    },
+    "cta": {
+      "text": "Register Now",
+      "componentName": "PricingComparisonModal"
+    },
+    "filters": {
+      "signupSources": [],
+      "orgIds": []
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2022,
+      "month": 9,
+      "date": 15,
+      "hour": 16
+    }
+  }
+ 
+]

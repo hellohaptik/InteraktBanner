@@ -1,0 +1,285 @@
+[
+  {
+    "closeLimit": 1,
+    "id": "ribbon-3rd-july-2024",
+    "text": "Meta is currently experiencing some disruption impacting messaging templates approval because of which templates are stuck in the pending state. Their engineering teams are investigating the issue. We will provide another update once we have an additional information.",
+    "theme": {
+      "bg": "#D92D20",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Shopify", "Traditional"]
+    },
+    "pages": ["/templates/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 4,
+      "hour": 12
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-10th-june-2024",
+    "text": "Join us on 14th June, 12:30 PM & learn how to reduce your RTOs via COD to Prepaid Conversion Campaigns",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/7917180105175/WN_60lne4hnSZ60WA9ZKGFYyQ"
+    },
+    "filters": {
+      "signupSources": ["Shopify"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 6,
+      "date": 14,
+      "hour": 13
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-14th-may-2024",
+    "text": "Refer and earn 2500/- Amazon Vouchers for every Interakt subscription sign up. Hurry, offer ends on June 10th, 2024",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Traditional", "Shopify"]
+    },
+    "pages": ["/templates/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 6,
+      "date": 11,
+      "hour": 0
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-2nd-may-2024",
+    "text": "Join us on 10th May, 12:30 PM & learn how to Supercharge Your Customer Support with Instagram Inbox & AnswerBot.",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg"
+    },
+    "filters": {
+      "signupSources": ["Traditional", "Shopify"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 5,
+      "date": 10,
+      "hour": 13
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-24th-april-2024-B",
+    "text": "Scheduled Maintenance: Our platform will undergo planned downtime from midnight 12:15 to 01:50 a.m IST i.e.(26/04/2024 early morning). We apologize for any inconvenience caused and appreciate your patience as we work to improve your experience.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list",
+      "/login",
+      "/signup"
+    ],
+    "expireOn": {
+      "year": 2024,
+      "month": 4,
+      "date": 25,
+      "hour": 1
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-17th-april-2024",
+    "text": "Join us on 26th April, 12:30 PM and learn how to supercharge your marketing strategy with Smart Ads & Concierge.",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/7217132680195/WN_rt97g_yKQPWdwbZLL1e10w"
+    },
+    "filters": {
+      "signupSources": ["Traditional", "Shopify"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 4,
+      "date": 26,
+      "hour": 12
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-04th-apr-2024-A",
+    "text": "WhatsApp Business API service is experiencing disruptions due to a major issue from Meta's end; refer to https://metastatus.com/whatsapp-business-api for updates.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["/inbox"],
+    "expireOn": {
+      "year": 2024,
+      "month": 4,
+      "date": 4,
+      "hour": 9
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-4th-march-2024",
+    "text": "Launching Interakt Prepaid Wallet on 1st April 2024 to simplify billing and provide insight into your conversation expenses.",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Prepaid Wallet FAQs",
+      "url": "https://www.interakt.shop/resource-center/prepaid-wallet-faqs-for-enterprise-customers/"
+    },
+    "filters": {
+      "plans": [
+        "Haptik_Trial_Plan",
+        "Enterprise Inbox Plan (PID = INT)",
+        "Enterprise Inbox Plan (PID = HAP)",
+        "Enterprise Bot Plan (PID = HAP)",
+        "Enterprise Bot Plan (PID = INT)",
+        "Haptik_Bot_Plan",
+        "Haptik_Inbox_Plus_Analytics_Plan",
+        "Haptik_Inbox_Plan"
+      ]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 4,
+      "date": 1,
+      "hour": 1
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-27th-feb-2024",
+    "text": "Interakt Product launch at WhatsApp on Wheels is LIVE. Tune in now!",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Join Livestream",
+      "url": "https://www.youtube.com/watch?v=ryZu1tAqeVM"
+    },
+    "filters": {
+      "signupSources": ["Traditional", "Shopify"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 2,
+      "date": 27,
+      "hour": 16
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-29th-jan-2024",
+    "text": "We are facing some issues in recharging Wallets, we are working with our payment partners for a speedy resolution.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["/payments/wallet"],
+    "expireOn": {
+      "year": 2024,
+      "month": 1,
+      "date": 30,
+      "hour": 15
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-26th-dec-2023-A",
+    "text": "Please note, we will be performing a scheduled maintenance where there will be a downtime on Thursday, 28th December, 12:30 AM to 1:30 AM IST.\nDuring this time, Interakt messages won’t be sent or received and post the maintenance, all activities will be restored.",
+    "theme": {
+      "bg": "#FFA500",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["/inbox"],
+    "expireOn": {
+      "year": 2023,
+      "month": 12,
+      "date": 28,
+      "hour": 5
+    }
+  }
+]

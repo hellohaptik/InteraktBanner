@@ -1,0 +1,83 @@
+[
+  {
+    "closeLimit": 1,
+    "id": "banner-23rd-mar-2023",
+    "text": "Popup example",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Know More",
+      "componentName": "SetupCatalogCampaignPopup",
+      "action": "popup"
+    },
+    "filters": {
+      "orgIds": []
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2023,
+      "month": 3,
+      "date": 27,
+      "hour": 23
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-16th-jan-2023",
+    "text": "orgIds filter example",
+    "theme": {
+      "bg": "#3F91DA",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Know More",
+      "url": "/automation/inbox-setting"
+    },
+    "filters": {
+      "orgIds": [
+        "217dee7c-b56d-4e08-94a3-0a93e2a920a5",
+        "ba99482e-dae3-457e-96a9-ff55b127545d",
+        "5c2e5900-64c4-4bdb-ac3d-f91f1c28cb82"
+      ]
+    },
+    "pages": ["^/inbox$"],
+    "expireOn": {
+      "year": 2023,
+      "month": 1,
+      "date": 18,
+      "hour": 20
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-7th-feb-2023",
+    "text": "Text to test variables {{org_id}} , +{{channel_phone_number}} , {{first_name}} , {{full_name}} , {{user_email}} , {{user_id}}",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Link fo {{full_name}}",
+      "url": "/automation/inbox-setting/{{channel_phone_number}}"
+    },
+    "icon": {
+      "iconName": "error",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["^/notification$", "^/inbox$"],
+    "expireOn": {
+      "year": 2023,
+      "month": 2,
+      "date": 20,
+      "hour": 3
+    }
+  }
+]
