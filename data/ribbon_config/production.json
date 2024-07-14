@@ -1,6 +1,30 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-16th-july-2024",
+    "text": "We will be undergoing scheduled maintenance on 17th July from 12:30 AM to 1:30 AM. During this time, Interakt will be temporarily unavailable. We apologize for any inconvenience and appreciate your understanding.",
+    "theme": {
+      "bg": "#D92D20",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 17,
+      "hour": 5
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-27th-june-2024",
     "text": "Meta is currently experiencing some disruption impacting messaging templates approval because of which templates are stuck in the pending state. Their engineering teams are investigating the issue. We will provide another update once we have an additional information.",
     "theme": {
