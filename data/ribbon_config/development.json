@@ -1,10 +1,10 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-3rd-july-2024",
-    "text": "Meta is currently experiencing some disruption impacting messaging templates approval because of which templates are stuck in the pending state. Their engineering teams are investigating the issue. We will provide another update once we have an additional information.",
+    "id": "ribbon-28th-june-2024",
+    "text": "Don't miss out! Join our exclusive WhatsApp workshop for Shopify Merchants on July 19th at 12:30 PM.",
     "theme": {
-      "bg": "#D92D20",
+      "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "icon": {
@@ -13,13 +13,17 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": ["Shopify", "Traditional"]
+      "signupSources": ["Shopify"]
     },
-    "pages": ["/templates/list"],
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/9017210391293/WN_BLGUI-_bQ6WaREaJMPDWyA"
+    },
+    "pages": ["/inbox", "/templates/list"],
     "expireOn": {
       "year": 2024,
       "month": 7,
-      "date": 4,
+      "date": 19,
       "hour": 12
     }
   },
