@@ -1,6 +1,34 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-24th-april-2024-B",
+    "text": "We're working on it! Interakt is currently not working as expected. Our team is addressing the issues to improve your experience. Thank you for your patience!",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list",
+      "/login",
+      "/signup"
+    ],
+    "expireOn": {
+      "year": 2024,
+      "month": 7,
+      "date": 27,
+      "hour": 17
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-18th-july-2024",
     "text": "Don't miss out! Join our exclusive WhatsApp workshop for Shopify Merchants on July 19th at 12:30 PM.",
     "theme": {
