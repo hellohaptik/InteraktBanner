@@ -2,7 +2,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-24th-april-2024-B",
-    "text": "We are experiencing a delay in updating Campaign Stats. Our team is already on this and fixing it. We appreciate your patience!",
+    "text": "Scheduled Maintenance: Interakt will be unavailable for 15 mins from 2:00 AM to 2:15 AM on 28th July. We apologize for any inconvenience and appreciate your patience!",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
@@ -23,8 +23,8 @@
     "expireOn": {
       "year": 2024,
       "month": 7,
-      "date": 27,
-      "hour": 17
+      "date": 28,
+      "hour": 3
     }
   },
   {
