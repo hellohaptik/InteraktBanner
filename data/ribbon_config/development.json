@@ -1,6 +1,30 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-12th-aug-2024",
+    "text": "Join us on 20th Aug, 4 PM, to learn how to Transform Conversations to Conversions with WhatsApp Flows.",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["AdsPlan", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 8,
+      "date": 20,
+      "hour": 16
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-28th-june-2024",
     "text": "Don't miss out! Join our exclusive WhatsApp workshop for Shopify Merchants on July 19th at 12:30 PM.",
     "theme": {
