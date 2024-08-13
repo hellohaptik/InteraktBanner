@@ -3,6 +3,10 @@
     "closeLimit": 1,
     "id": "ribbon-12th-aug-2024",
     "text": "Join us on 20th Aug, 4 PM, to learn how to Transform Conversations to Conversions with WhatsApp Flows.",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/4717231900874/WN_9D99cXaeS5G_Uo1qeOs_Ig"
+    },
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
