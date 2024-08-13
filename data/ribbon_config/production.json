@@ -1,6 +1,34 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-12th-aug-2024",
+    "text": "Join us on 20th Aug, 4 PM, to learn how to Transform Conversations to Conversions with WhatsApp Flows.",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/4717231900874/WN_9D99cXaeS5G_Uo1qeOs_Ig"
+    },
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["AdsPlan", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 8,
+      "date": 20,
+      "hour": 16
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-24th-april-2024-B",
     "text": "Scheduled Maintenance: Interakt will be unavailable for 15 mins from 2:00 AM to 2:15 AM on 28th July. We apologize for any inconvenience and appreciate your patience!",
     "theme": {
