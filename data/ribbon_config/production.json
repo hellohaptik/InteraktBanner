@@ -1,34 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-24th-april-2024-B",
-    "text": "Interakt is facing some problems and our Engineers are on top to resolve this soon. We apologize for any inconvenience and appreciate your patience!",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff"
-    },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
-    "pages": [
-      "/inbox",
-      "/templates/list",
-      "^/notification$",
-      "/contacts/list",
-      "/login",
-      "/signup"
-    ],
-    "expireOn": {
-      "year": 2024,
-      "month": 8,
-      "date": 16,
-      "hour": 20
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-12th-aug-2024",
     "text": "Join us on 20th Aug, 4 PM, to learn how to Transform Conversations to Conversions with WhatsApp Flows.",
     "cta": {
