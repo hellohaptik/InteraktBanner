@@ -1,11 +1,11 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-12th-aug-2024",
-    "text": "Join us on 20th Aug, 4 PM, to learn how to Transform Conversations to Conversions with WhatsApp Flows.",
+    "id": "ribbon-16th-sep-2024",
+    "text": "Join us on 25th September, 4:00 PM and learn how to to integrate ZOHO CRM with your Interakt platform & boost your CSAT score.",
     "cta": {
       "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/4717231900874/WN_9D99cXaeS5G_Uo1qeOs_Ig"
+      "url": "https://us06web.zoom.us/webinar/register/5417264690933/WN_LebvDoMwR3yaOvvN47qOwA"
     },
     "theme": {
       "bg": "#3C74F3",
@@ -22,9 +22,9 @@
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2024,
-      "month": 8,
-      "date": 20,
-      "hour": 16
+      "month": 9,
+      "date": 25,
+      "hour": 17
     }
   },
   {
