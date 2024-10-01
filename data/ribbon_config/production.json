@@ -1,19 +1,19 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-16th-sep-2024",
-    "text": "Join us on 25th September, 4:00 PM and learn how to to integrate ZOHO CRM with your Interakt platform & boost your CSAT score.",
+    "id": "ribbon-1st-oct-2024",
+    "text": "UPDATE: As per Meta’s new pricing, our Marketing-based conversation pricing is being revised effective from 01/10/2024",
     "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/5417264690933/WN_LebvDoMwR3yaOvvN47qOwA"
+      "text": "Learn more here",
+      "url": "https://www.interakt.shop/whatsapp-conversation-pricing/"
     },
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
+      "name": "bell",
+      "size": "small",
       "color": "#ffffff"
     },
     "filters": {
@@ -22,42 +22,14 @@
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2024,
-      "month": 9,
-      "date": 25,
-      "hour": 17
+      "month": 10,
+      "date": 5,
+      "hour": 0
     }
   },
   {
     "closeLimit": 1,
-    "id": "ribbon-24th-april-2024-B",
-    "text": "Scheduled Maintenance: Interakt will be unavailable for 15 mins from 2:00 AM to 2:15 AM on 28th July. We apologize for any inconvenience and appreciate your patience!",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff"
-    },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
-    "pages": [
-      "/inbox",
-      "/templates/list",
-      "^/notification$",
-      "/contacts/list",
-      "/login",
-      "/signup"
-    ],
-    "expireOn": {
-      "year": 2024,
-      "month": 7,
-      "date": 27,
-      "hour": 3
-    }
-  },
-  {
-    "closeLimit": 1,
-    "id": "ribbon-18th-july-2024",
+    "id": "ribbon-28th-june-2024",
     "text": "Don't miss out! Join our exclusive WhatsApp workshop for Shopify Merchants on July 19th at 12:30 PM.",
     "theme": {
       "bg": "#3C74F3",
