@@ -1,18 +1,18 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-16th-sep-2024",
-    "text": "Join us on 25th September, 4:00 PM and learn how to to integrate ZOHO CRM with your Interakt platform & boost your CSAT score.",
+    "id": "ribbon-1st-oct-2024",
+    "text": "UPDATE: As per Meta’s new pricing, our Marketing-based conversation pricing is being revised effective from 01/10/2024",
     "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/5417264690933/WN_LebvDoMwR3yaOvvN47qOwA"
+      "text": "Learn more here,
+      "url": "https://www.interakt.shop/whatsapp-conversation-pricing/"
     },
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "icon": {
-      "iconName": "campaignBlack",
+      "iconName": "bellV2",
       "iconSize": "small",
       "color": "#ffffff"
     },
@@ -22,9 +22,9 @@
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2024,
-      "month": 9,
-      "date": 25,
-      "hour": 17
+      "month": 10,
+      "date": 5,
+      "hour": 0
     }
   },
   {
