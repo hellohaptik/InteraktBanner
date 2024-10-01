@@ -2,13 +2,18 @@
   {
     "closeLimit": 1,
     "id": "ribbon-1st-oct-2024",
-    "text": ":bell: UPDATE: As per Meta’s new pricing, our Marketing-based conversation pricing is being revised effective from 01/10/2024",
+    "text": "UPDATE: As per Meta’s new pricing, our Marketing-based conversation pricing is being revised effective from 01/10/2024",
     "cta": {
       "text": "Learn more here",
       "url": "https://www.interakt.shop/whatsapp-conversation-pricing/"
     },
     "theme": {
       "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "bell",
+      "iconSize": "small",
       "color": "#ffffff"
     },
     "filters": {
