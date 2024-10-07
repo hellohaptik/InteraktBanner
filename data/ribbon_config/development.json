@@ -1,11 +1,11 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-1st-oct-2024",
-    "text": "UPDATE: As per Meta’s new pricing, our Marketing-based conversation pricing is being revised effective from 01/10/2024",
+    "id": "ribbon-6th-oct-2024",
+    "text": "Learn how to get customers to review your business via WhatsApp with our Judge.me integration |",
     "cta": {
-      "text": "Learn more here",
-      "url": "https://www.interakt.shop/whatsapp-conversation-pricing/"
+      "text": "Register for Workshop",
+      "url": "https://us06web.zoom.us/webinar/register/3617277724462/WN_dbGEj5o9RoG5WEimjtBGYw"
     },
     "theme": {
       "bg": "#3C74F3",
@@ -23,8 +23,8 @@
     "expireOn": {
       "year": 2024,
       "month": 10,
-      "date": 5,
-      "hour": 0
+      "date": 11,
+      "hour": 13
     }
   },
   {
