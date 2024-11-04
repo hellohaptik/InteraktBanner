@@ -1,30 +1,30 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-15oct-2024-B",
-    "text": "We're experiencing intermittent issues with WhatsApp's system not responding. We're collaborating with Meta to investigate and resolve the problem. You can find the latest updates on the issue from the Meta team here - https://metastatus.com/whatsapp-business-api",
+    "id": "ribbon-4th-nov-2024",
+    "text": "Join us on 12th November at 4 PM to learn how you can transform conversations into conversions with Interakt & NitroX!",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/3917307140216/WN_M88ax8VMTZ2N2MWaD5OxuA"
+    },
     "theme": {
-      "bg": "#BE364E",
+      "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
+      "name": "bell",
+      "size": "small",
       "color": "#ffffff"
     },
-    "pages": [
-      "/inbox",
-      "/templates/list",
-      "^/notification$",
-      "/contacts/list",
-      "/login",
-      "/signup"
-    ],
+    "filters": {
+      "signupSources": ["AdsPlan", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2024,
-      "month": 8,
-      "date": 16,
-      "hour": 17
+      "month": 11,
+      "date": 12,
+      "hour": 15
     }
   },
   {
