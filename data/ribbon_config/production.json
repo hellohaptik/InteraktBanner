@@ -1,34 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-4th-nov-2024",
-    "text": "Join us on 12th November at 4 PM to learn how you can transform conversations into conversions with Interakt & NitroX!",
-    "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/3917307140216/WN_M88ax8VMTZ2N2MWaD5OxuA"
-    },
-    "theme": {
-      "bg": "#3C74F3",
-      "color": "#ffffff"
-    },
-    "icon": {
-      "name": "bell",
-      "size": "small",
-      "color": "#ffffff"
-    },
-    "filters": {
-      "signupSources": ["AdsPlan", "Shopify", "Traditional"]
-    },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
-    "expireOn": {
-      "year": 2024,
-      "month": 11,
-      "date": 12,
-      "hour": 15
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-6th-oct-2024",
     "text": "Learn how to get customers to review your business via WhatsApp with our Judge.me integration |",
     "cta": {
