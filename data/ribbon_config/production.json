@@ -1,11 +1,11 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-6th-oct-2024",
-    "text": "Learn how to get customers to review your business via WhatsApp with our Judge.me integration |",
+    "id": "ribbon-18th-nov-2024",
+    "text": "Boost Your Holiday Sales on WhatsApp with Interakt & Razorpay",
     "cta": {
-      "text": "Register for Workshop",
-      "url": "https://us06web.zoom.us/webinar/register/3617277724462/WN_dbGEj5o9RoG5WEimjtBGYw"
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/8717315571323/WN_USDdrw2sRW6N4aHKvYbf-w"
     },
     "theme": {
       "bg": "#3C74F3",
@@ -22,8 +22,8 @@
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2024,
-      "month": 10,
-      "date": 11,
+      "month": 11,
+      "date": 26,
       "hour": 13
     }
   },
