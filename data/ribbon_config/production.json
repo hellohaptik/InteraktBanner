@@ -1,14 +1,10 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-18th-nov-2024",
-    "text": "Boost Your Holiday Sales on WhatsApp with Interakt & Razorpay",
-    "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/8717315571323/WN_USDdrw2sRW6N4aHKvYbf-w"
-    },
+    "id": "ribbon-11th-dec-2024-A",
+    "text": "We are currently experiencing issues with real-time updates on the Template. While we work on resolving this, we kindly request you to click the Sync button to check for updates manually. Thanks!",
     "theme": {
-      "bg": "#3C74F3",
+      "bg": "#BE364E",
       "color": "#ffffff"
     },
     "icon": {
@@ -16,14 +12,11 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "filters": {
-      "signupSources": ["AdsPlan", "Shopify", "Traditional"]
-    },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": ["/templates/list"],
     "expireOn": {
       "year": 2024,
-      "month": 11,
-      "date": 26,
+      "month": 12,
+      "date": 12,
       "hour": 13
     }
   },
