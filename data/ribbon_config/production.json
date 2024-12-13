@@ -1,27 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-11th-dec-2024-A",
-    "text": "We are currently experiencing issues with real-time updates on the Template. While we work on resolving this, we kindly request you to click the Sync button to check for updates manually. Thanks!",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff"
-    },
-    "icon": {
-      "name": "bell",
-      "size": "small",
-      "color": "#ffffff"
-    },
-    "pages": ["/templates/list"],
-    "expireOn": {
-      "year": 2024,
-      "month": 12,
-      "date": 12,
-      "hour": 13
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-28th-june-2024",
     "text": "Don't miss out! Join our exclusive WhatsApp workshop for Shopify Merchants on July 19th at 12:30 PM.",
     "theme": {
