@@ -1,8 +1,8 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-11th-dec-2024-A",
-    "text": "We are currently experiencing issues with real-time updates on the Template. While we work on resolving this, we kindly request you to click the Sync button to check for updates manually.",
+    "id": "ribbon-16th-dec-2024",
+    "text": "Important Update: Our application will undergo critical maintenance on 17th Dec 2024, from 2:00 AM to 2:45 AM IST (16th Dec 2024, 8:30 PM to 9:15 PM UTC). We appreciate your understanding as we implement this essential update.",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
@@ -12,12 +12,12 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "pages": ["/templates/list"],
+    "pages": ["/login", "/signup", "/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2024,
       "month": 12,
-      "date": 12,
-      "hour": 13
+      "date": 17,
+      "hour": 3
     }
   },
   {
