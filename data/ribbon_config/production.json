@@ -22,27 +22,6 @@
   },
   {
     "closeLimit": 1,
-    "id": "ribbon-19th-dec-2024",
-    "text": "Important Update: Our application will undergo critical maintenance on 19th Dec 2024, from 2:00 AM to 3:45 AM IST (19th Dec 2024, 8:30 PM to 10:15 PM UTC). We appreciate your understanding as we implement this essential update.",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff"
-    },
-    "icon": {
-      "name": "bell",
-      "size": "small",
-      "color": "#ffffff"
-    },
-    "pages": ["/login", "/signup", "/inbox", "/templates/list", "^/notification$", "/contacts/list"],
-    "expireOn": {
-      "year": 2024,
-      "month": 12,
-      "date": 19,
-      "hour": 3
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-28th-june-2024",
     "text": "Don't miss out! Join our exclusive WhatsApp workshop for Shopify Merchants on July 19th at 12:30 PM.",
     "theme": {
