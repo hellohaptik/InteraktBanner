@@ -1,4 +1,33 @@
 [
+
+  {
+    "closeLimit": 1,
+    "id": "ribbon-23rd-dec-2024",
+    "text": "[FREE TRAINING] Learn how to create a Chatbot on Interakt.",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Shopify", "Traditional"]
+    },
+    "cta": {
+      "text": "Register Here",
+      "url": "https://us06web.zoom.us/webinar/register/8117348715416/WN_bPoBICdXQF6UTqliMmCnJQ"
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2024,
+      "month": 12,
+      "date": 26,
+      "hour": 12
+    }
+  },
   {
     "closeLimit": 1,
     "id": "ribbon-16th-dec-2024",
