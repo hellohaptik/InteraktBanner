@@ -1,4 +1,25 @@
 [
+    {
+    "closeLimit": 1,
+    "id": "ribbon-4th-feb-2024",
+    "text": "Due to Meta limits, we are currently facing sporadic issues in creating templates with images and connecting number to whatsapp. Please bear with us till we get this fixed with Meta.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 2,
+      "date": 6,
+      "hour": 15
+    }
+  },
   {
     "closeLimit": 1,
     "id": "ribbon-23rd-dec-2024",
