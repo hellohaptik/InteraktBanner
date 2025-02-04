@@ -14,10 +14,10 @@
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
-      "year": 2024,
-      "month": 12,
-      "date": 17,
-      "hour": 3
+      "year": 2025,
+      "month": 2,
+      "date": 6,
+      "hour": 15
     }
   },
   {
