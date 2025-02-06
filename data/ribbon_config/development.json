@@ -1,6 +1,27 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-6th-feb-2024",
+    "text": "🔒 Important Security Update 🔒 Please ensure that the phone number added to your Interakt profile can receive WhatsApp messages. We will soon be enabling 2FA on Interakt, and OTPs will be sent to your phone number listed on the Team Settings page. Kindly work with the account owner to update your number if needed to avoid any access issues",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 2,
+      "date": 10,
+      "hour": 16
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-4th-feb-2024",
     "text": "Due to Meta limits, we are currently facing sporadic issues in creating templates with images and connecting number to whatsapp. Please bear with us till we get this fixed with Meta.",
     "theme": {
