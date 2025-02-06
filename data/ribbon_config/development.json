@@ -12,7 +12,7 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "pages": ["^(?!\/(?:login|signup)(?:\/|$|\?)).*$"],
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2025,
       "month": 2,
