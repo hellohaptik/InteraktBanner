@@ -2,7 +2,7 @@
     {
     "closeLimit": 1,
     "id": "ribbon-6th-feb-2024",
-    "text": "🔒 Important Security Update 🔒 Please ensure that the phone number added to your profile can receive WhatsApp messages. We will soon be enabling 2FA on this platform, and OTPs will be sent to your phone number listed on the Team Settings page. Kindly work with your account owner to update your number if needed to avoid any access issues.",
+    "text": "🔒 Important Security Update 🔒 Please ensure that the phone number added to your profile can receive WhatsApp messages. We will soon be enabling 2FA on this platform, and OTPs will be sent to your phone number via WhatsApp listed on the Team Settings page. Kindly work with your account owner to update your number if needed to avoid any access issues.",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
