@@ -16,10 +16,10 @@
       "size": "small",
       "color": "#ffffff"
     },
+    "pages": ["^(?!/(login|signup)$).*"],
     "filters": {
       "signupSources": ["Shopify", "Traditional", "AdsPlan"]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2025,
       "month": 3,
