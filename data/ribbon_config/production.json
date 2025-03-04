@@ -1,5 +1,30 @@
 [
-    {
+  {
+    "closeLimit": 1,
+    "id": "ribbon-4th-mar-2024",
+    "text": "[EXCLUSIVE] Get a chance to promote your Brand on JioHotstar during IPL 2025 | Join the Webinar to know more.",
+    "cta": {
+      "text": "Register Here",
+      "url": "https://us06web.zoom.us/webinar/register/WN_1Gk19TVzTwaHgOwQoMwQ_Q#/registration"
+    },
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["^(?!/(login|signup)$).*"],
+    "expireOn": {
+      "year": 2025,
+      "month": 3,
+      "date": 6,
+      "hour": 13
+    }
+  },
+  {
     "closeLimit": 1,
     "id": "ribbon-6th-feb-2024",
     "text": "🔒 Important Security Update 🔒 Please ensure that the phone number added to your profile can receive WhatsApp messages. We will soon be enabling 2FA on this platform, and OTPs will be sent to your phone number via WhatsApp listed on the Team Settings page. Kindly work with your account owner to update your number if needed to avoid any access issues.",
@@ -20,7 +45,7 @@
       "hour": 16
     }
   },
-    {
+  {
     "closeLimit": 1,
     "id": "ribbon-4th-feb-2024",
     "text": "Due to Meta limits, we are currently facing sporadic issues in creating templates with images and connecting number to whatsapp. Please bear with us till we get this fixed with Meta.",
@@ -82,7 +107,14 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "pages": ["/login", "/signup", "/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/login",
+      "/signup",
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 12,
