@@ -12,6 +12,9 @@
       "size": "small",
       "color": "#ffffff"
     },
+    "filters": {
+      "signupSources": ["Traditional", "Shopify"]
+    },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2025,
