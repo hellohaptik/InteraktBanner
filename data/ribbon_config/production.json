@@ -1,6 +1,27 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-27th-mar-2024",
+    "text": "Due to an ongoing issue with Meta's template synchronization, you may encounter error 131009 - Parameter Value is not supported in your campaigns using Marketing templates. We are working closely with Meta to resolve this promptly and apologize for any inconvenience caused.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 3,
+      "date": 28,
+      "hour": 1
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-4th-mar-2024",
     "text": "[EXCLUSIVE] Get a chance to promote your Brand on JioHotstar during IPL 2025 | Join the Webinar to know more.",
     "cta": {
