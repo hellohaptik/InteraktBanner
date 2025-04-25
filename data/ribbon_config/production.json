@@ -12,9 +12,6 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "filters": {
-      "signupSources": ["Traditional", "Shopify"]
-    },
     "pages": [
       "/inbox",
       "/templates/list",
