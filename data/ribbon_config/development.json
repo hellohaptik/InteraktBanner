@@ -1,6 +1,34 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-25th-april-2024",
+    "text": "Discover how Interakt’s WhatsApp Sales CRM can help you close more deals, faster—join our webinar every Wednesday at 11 AM!",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/9017454766742/WN_xWmVLYaKRrOnht1ybm_d7Q"
+    },
+    "filters": {
+      "plans": [
+        "Starter",
+        "Growth",
+        "Advanced"
+      ],
+      "signupSources": ["salesCrm", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 5,
+      "date": 17,
+      "hour": 10
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-4th-mar-2024",
     "text": "[EXCLUSIVE] Get a chance to promote your Brand on JioHotstar during IPL 2025 | Join the Webinar to know more.",
     "cta": {
