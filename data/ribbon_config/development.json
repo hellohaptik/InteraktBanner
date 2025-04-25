@@ -15,7 +15,7 @@
       "plans": [
         "Starter",
         "Growth",
-        "Advanced",
+        "Advanced"
       ],
       "signupSources": ["salesCrm", "Traditional"]
     },
