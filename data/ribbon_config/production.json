@@ -1,6 +1,37 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-25th-apr-2024",
+    "text": "Our application is currently experiencing intermittent issues. We are working with the concerned teams to resolve this as soon as possible. We apologize for the inconvenience. ",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Traditional", "Shopify"]
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list",
+      "/login",
+      "/signup"
+    ],
+    "expireOn": {
+      "year": 2025,
+      "month": 4,
+      "date": 25,
+      "hour": 16
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-27th-mar-2024",
     "text": "Due to an ongoing issue with Meta's template synchronization, you may encounter error 131009 - Parameter Value is not supported in your campaigns using Marketing templates. We are working closely with Meta to resolve this promptly and apologize for any inconvenience caused.",
     "theme": {
