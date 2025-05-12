@@ -13,8 +13,8 @@
       "color": "#ffffff"
     },
     "filters": {
-      isInstaConnected: true,
-      plans: ["Growth (free trial)", "Instagram Starter"]
+      "isInstaConnected": true,
+      "plans": ["Growth (free trial)", "Instagram Starter"]
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
     "expireOn": {
