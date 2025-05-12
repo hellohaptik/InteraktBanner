@@ -1,6 +1,32 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-12th-may-2025",
+    "text": "We're currently impacted by a temporary global outage of Instagram APIs. We are unable to connect your Instagram account & activate Automations at this time. Instagram's team is actively working on this. We'll updated you as soon as it's resolved.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "isInstaActive": true,
+      "isInstaConnected": true,
+      "plans": ["Growth (free trial)", "Instagram Starter"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
+    "expireOn": {
+      "year": 2025,
+      "month": 5,
+      "date": 13,
+      "hour": 13
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-25th-april-2024",
     "text": "Discover how Interakt’s WhatsApp Sales CRM can help you close more deals, faster—join our webinar every Wednesday at 11 AM!",
     "theme": {
