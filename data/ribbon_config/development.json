@@ -13,7 +13,7 @@
       "color": "#ffffff"
     },
     "filters": {
-      "isInstaActive", true,
+      "isInstaActive": true,
       "isInstaConnected": true,
       "plans": ["Growth (free trial)", "Instagram Starter"]
     },
