@@ -1,0 +1,39 @@
+[
+    {
+        "id": "test-banner-1",
+        "title": "This is banner title",
+        "content": "This is banner content",
+        "color": "32a852"
+    },
+    {
+        "id": "test-banner-5",
+        "title": "Live Demo in Hindi | Interakt for WhatsApp Business API | 12.00 pm",
+        "content": "var1",
+        "color": "BE364E",
+        "variables": [
+            {
+                "variable_id": "var1",
+                "text": "Register Now",
+                "auth": "false",
+                "url": "https://us06web.zoom.us/webinar/register/WN_mEihPvaXRyOfZcyBczyV0g#/registration"
+            }
+        ]
+    },
+    {
+        "id": "test-banner-2",
+        "title": "This is banner title",
+        "content": "This is banner content",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png"
+    },
+    {
+        "id": "test-banner-3",
+        "title": "This is banner title",
+        "content": "This is banner content",
+        "org_ids": []
+    },
+    {
+        "id": "banner-test-1",
+        "title": "Scheduled Maintenance Alert",
+        "content": "Downtime on 28th Dec, 12:30-1:30 AM IST.  All messages in the inbox will be restored post-maintenance."
+    }
+]
