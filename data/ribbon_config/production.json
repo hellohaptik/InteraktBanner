@@ -1,10 +1,10 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-12th-may-2025",
-    "text": "We're currently impacted by a temporary global outage of Instagram APIs. We are unable to connect your Instagram account & activate Automations at this time. Instagram's team is actively working on this. We'll updated you as soon as it's resolved.",
+    "id": "ribbon-13th-may-2025",
+    "text": "Good News! Instagram services on Interakt are up and running again. All existing automations will work for comments received after 13th May 3:45pm IST.",
     "theme": {
-      "bg": "#BE364E",
+      "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "icon": {
