@@ -1,0 +1,31 @@
+{
+    "local_cache_time": 1,
+    "resend_timer": 5,
+    "logger_push_timer": 60,
+    "logger_enabled": false,
+    "logger_batchsize": 25,
+    "logger_log_reponse": true,
+    "logger_whitelist": [],
+    "socket_retry_delays": [
+        0,
+        2000,
+        10000,
+        30000
+    ],
+    "socket_send_reconnect": true,
+    "socket_status_reconnect": true,
+    "socket_skip_negotiation": true,
+    "request_in_app_review": true,
+    "in_app_review_skip_days": 7,
+    "template_id_shopify_prod": "ade02fbb-5d53-403d-ba80-3e9a0f020a4d",
+    "template_id_shopify_dev": "4dda0c63-cce1-4fe6-9590-98ead2ab5943",
+    "template_id_traditional_prod": "1b582346-61ff-49f0-bd22-233fffe68300",
+    "template_id_traditional_dev": "c5608b7-bcb4-4d3d-8731-b0011d7acbab",
+    "es_native_enabled": true,
+    "mqtt": {
+        "enabled": true,
+        "whitelist": [],
+        "analytics_event": true,
+        "firebase_crash": true
+    }
+}
