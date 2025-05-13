@@ -1,0 +1,24 @@
+{
+    "settings_webview": false,
+    "analytics_webview": true,
+    "analytics_native": false,
+    "wallet": true,
+    "business_profile_native": true,
+    "multi_image": true,
+    "business_profile_onboarding": {
+        "logo": true,
+        "description": true,
+        "ooo": true,
+        "greeting": true,
+        "contacts_sync": true
+    },
+    "v2_login_whitelist": [
+        "__all__"
+    ],
+    "agent_availablity_update": [
+        "__all__"
+    ],
+    "template_button_blacklist": [
+        "mpm"
+    ]
+}
