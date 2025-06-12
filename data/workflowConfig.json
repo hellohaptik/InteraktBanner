@@ -1,5 +1,6 @@
 {
   "hide_switchview_from": "03-01-2025",
   "disable_advanced_workflow_from": "03-01-2025",
-  "workflow_error_enabled": true
+  "workflow_error_enabled": true,
+  "media_attachment_alert_enabled": true
 }
