@@ -1,6 +1,29 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-24th-june-2025",
+    "text": "Join our Product Expert, Dhananjay Adodra, to learn how WhatsApp Sales CRM can help close more deals, faster on 26th June at 12 PM!",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1617507506189/WN_Rte35oCgQmCpuRXrztwDDg"
+    },
+    "filters": {
+      "signupSources": ["salesCrm", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 6,
+      "date": 24,
+      "hour": 11
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-12th-may-2025",
     "text": "We're currently impacted by a temporary global outage of Instagram APIs. We are unable to connect your Instagram account & activate Automations at this time. Instagram's team is actively working on this. We'll updated you as soon as it's resolved.",
     "theme": {
