@@ -1,6 +1,29 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-24th-june-2025",
+    "text": "Join our Product Expert, Dhananjay Adodra, to learn how WhatsApp Sales CRM can help close more deals, faster on 26th June at 12 PM!",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1617507506189/WN_Rte35oCgQmCpuRXrztwDDg"
+    },
+    "filters": {
+      "signupSources": ["salesCrm", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 6,
+      "date": 26,
+      "hour": 11
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-13th-may-2025",
     "text": "Good News! Instagram services on Interakt are up and running again. All existing automations will work for comments received after 13th May 3:45pm IST.",
     "theme": {
