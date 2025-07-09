@@ -1,0 +1,231 @@
+{
+  "/inbox": {
+    "faqs": [
+      {
+        "question": "What is Interakt’s Shared Team Inbox and why is it important?",
+        "answer": "<strong>Why it matters:</strong><br/>The Shared Team Inbox helps your business manage all customer conversations on WhatsApp centrally. It prevents miscommunication and overlapping responses, making teamwork seamless and customer engagement more professional.<br/><br/><strong>How to use it in Interakt:</strong><ul><li>Log in to your Interakt account</li><li>Go to the “Inbox” from the left navigation</li><li>Here, all customer chats from your WhatsApp Business number are visible</li><li>Multiple agents can view, manage, and respond to chats in real-time</li></ul>"
+      },
+      {
+        "question": "How does agent assignment work in the Shared Inbox and why is it useful?",
+        "answer": "<strong>Why it matters:</strong><br/>Assigning chats to agents ensures every customer is handled by a responsible team member, avoids duplicated replies, and increases accountability within the team.<br/><br/><strong>How to assign in Interakt:</strong><ul><li>Open any chat in the Inbox</li><li>On the right panel, locate “Assign to Agent”</li><li>Click the dropdown and select the agent’s name</li><li>Once assigned, only that agent will get notifications for the chat</li><li>Reassignment is possible anytime if needed</li></ul>"
+      },
+      {
+        "question": "What happens when a customer replies again? How does Interakt handle continuity?",
+        "answer": "<strong>Why it matters:</strong><br/>For consistent communication, it's important that follow-up messages from customers go to the same agent who previously interacted with them.<br/><br/><strong>How Interakt manages it:</strong><ul><li>If a customer replies within the 24-hour window, the chat is automatically assigned to the last-handling agent</li><li>This avoids confusion and ensures continuity in the conversation</li></ul>"
+      },
+      {
+        "question": "How can I find specific customer conversations and why is it needed?",
+        "answer": "<strong>Why it matters:</strong><br/>As your customer base grows, it becomes difficult to manually scroll through hundreds of chats. Using search and filters helps you quickly locate specific interactions for follow-up or reference.<br/><br/><strong>How to search in Interakt:</strong><ul><li>Navigate to the Inbox</li><li>Use the search bar at the top</li><li>Enter the customer’s name, number, or keyword from the conversation</li><li>Press enter to view matching results instantly</li></ul>"
+      },
+      {
+        "question": "How can I filter chats based on specific criteria?",
+        "answer": "<strong>Why it matters:</strong><br/>Filters help you organize and manage chats based on team assignments, tags, lead source and more, making it easier to prioritize and take timely actions.<br/><br/><strong>How to apply filters in Interakt:</strong><ul><li>Go to the Inbox</li><li>Click on the filter icon (top right corner)</li><li>Apply filters such as:<ul><li>Assigned/Unassigned</li><li>Agent name</li><li>Tags or Labels</li><li>Date range</li><li>Channel type (WhatsApp, Website widget)</li></ul></li><li>Results will update as per selected filters</li><li>Click “Clear All” to reset</li></ul>"
+      },
+      {
+        "question": "Can I apply multiple filters at once?",
+        "answer": "<strong>Why it matters:</strong><br/>Combining filters helps narrow down your search even further, useful for identifying high-priority or segment-specific conversations.<br/><br/><strong>How to do it:</strong><ul><li>In the filter section, choose multiple criteria like Date + Agent + Tags</li><li>All conditions will be applied simultaneously</li><li>You can continue adding/removing filters as needed</li></ul>"
+      },
+      {
+        "question": "How do I access detailed customer information during a chat?",
+        "answer": "<strong>Why it matters:</strong><br/>Having customer context—like tags, past orders, or notes—lets agents offer personalized responses, leading to higher satisfaction.<br/><br/><strong>How to view it in Interakt:</strong><ul><li>Open a chat</li><li>On the right panel, view:<ul><li>Name and contact</li><li>Assigned agent</li><li>Tags and labels</li><li>Source of lead</li><li>Notes (add/edit)</li><li>Order history (if eCommerce is integrated)</li></ul></li></ul>"
+      },
+      {
+        "question": "How do I assign or reassign a chat to another agent from the layout?",
+        "answer": "<strong>Why it matters:</strong><br/>Team availability or workload may change, requiring chat reassignment to maintain response time and service quality.<br/><br/><strong>Steps to reassign in Interakt:</strong><ul><li>While viewing a chat, go to the right panel</li><li>Click on the “Assign to Agent” dropdown</li><li>Select another agent from the list</li><li>The chat will now appear under that agent’s assigned chats</li></ul>"
+      },
+      {
+        "question": "Why can’t I see certain chats or search for them, and how do I fix it?",
+        "answer": "<strong>Why it matters:</strong><br/>If you can’t find a chat, it’s likely due to search permissions or a missing inbox filter.<br/><br/><strong>How to resolve:</strong><ul><li>Click the search icon in the Inbox.</li><li>If it’s greyed out, request access from your admin to Settings → Roles Permission, enabling \"Inbox: All Users\" access</li><li>With permissions active, type the customer’s name, number, or keywords—results (up to 20) populate automatically.</li></ul>"
+      },
+      {
+        "question": "I need to filter chats by status or tag—how do I do that?",
+        "answer": "<strong>Why it matters:</strong><br/>Filtering helps you manage priorities—unresolved chats, specific agents or categories can be handled efficiently.<br/><br/><strong>How to apply filters:</strong><ul><li>Click the filter icon near the Inbox header.</li><li>Choose filters like:<ul><li>Chat status (Open/Closed)</li><li>Labels or tags</li><li>Assigned agent</li><li>Newest/Oldest sort</li></ul></li><li>Hit Apply, and a red dot appears on the filter icon to indicate active filters</li><li>To reset, click Clear or Apply Filters → Reset</li></ul>"
+      },
+      {
+        "question": "I want to assign or reassign chats—what’s the process?",
+        "answer": "<strong>Why it matters:</strong><br/>Assigning chats ensures accountability and prevents overlapping replies.<br/><br/><strong>Steps to assign/reassign:</strong><ul><li>Open the chat from Inbox.</li><li>Click Assign chat above the message area</li><li>Select an agent from the dropdown.</li><li>For reassigning, repeat and choose a different agent.</li><li>To auto-assign many chats, enable Auto Chat Assignment in settings</li></ul>"
+      },
+      {
+        "question": "How do I close old conversations and open them later?",
+        "answer": "<strong>Why it matters:</strong><br/>Closing resolved chats keeps your inbox clutter-free. Chats reopen if the customer replies.<br/><br/><strong>Steps to open/close:</strong><ul><li>Open chat you want to close.</li><li>Click the Close Chat button</li><li>Closed chats move out of your active view.</li><li>If a customer replies later, the chat automatically reopens</li></ul>"
+      },
+      {
+        "question": "How can I send media messages or templates?",
+        "answer": "<strong>Why it matters:</strong><br/>Sending images, videos, buttons, or payment links enhances customer interaction and boosts convenience.<br/><br/><strong>How to send:</strong><ul><li>Inside a chat, use:<ul><li>Attachment for files or media</li><li>Payment link icon to generate links</li><li>Templates, Quick Replies, Catalog, and List icons for structured messages.</li></ul></li><li>For templates, click the template icon, fill in variables, preview, and send.</li><li>Send quick replies directly via the quick-reply icon or type “/” to trigger saved replies.</li><li>Catalog and list messages showcase products and menus inside WhatsApp.</li></ul>"
+      },
+      {
+        "question": "Where can I find customer details and notes while chatting in the Interakt inbox?",
+        "answer": "<strong>Why it matters:</strong><br/>If you’re unable to quickly access customer info, past orders, or notes during a conversation, it can delay your response and affect service quality. Interakt’s inbox is structured to provide all essential context in one place.<br/><br/><strong>How the layout helps in Interakt:</strong><ul><li><strong>Left Panel (Chat List):</strong> View all ongoing conversations with names, previews, and status indicators.</li><li><strong>Middle Panel (Chat Window):</strong> Read and respond to messages using templates, quick replies, attachments, and catalog items.</li><li><strong>Right Panel (Customer Info & Smart Cards):</strong> Access customer contact details, lead source, tags, internal notes, and past order history. Assign or reassign the chat to an agent from this panel.</li></ul>"
+      }
+    ],
+
+    "videos": []
+  },
+  "/contacts/list": {
+    "faqs": [
+      {
+        "question": "What is the Contact Timeline and how does it help in Interakt?",
+        "answer": "<strong>Why it matters:</strong><br/>The Contact Timeline is a chronological view of all activities linked to a contact. It solves the problem of missing context by giving agents full visibility into messages, tags, notes, and assignments.<br/><br/><strong>How to view it:</strong><ul><li>Go to Sales CRM → Contacts</li><li>Click on a contact</li><li>Open the Timeline tab to see all updates and events</li></ul>"
+      },
+      {
+        "question": "How can I add new contacts to the Contact Hub and why is it important?",
+        "answer": "<strong>Why it matters:</strong><br/>Adding contacts helps store, manage, and reach out to leads at the right time. It solves the problem of scattered customer information and ensures all lead data is centralized in one hub.<br/><br/><strong>How to add contacts:</strong><ul><li><strong>Manually:</strong><ul><li>Go to Sales CRM → Contacts → Manual → Create Contact Individually</li><li>Fill in required details → Click Submit</li></ul></li><li><strong>Bulk Upload:</strong><ul><li>Go to Manual → Bulk Upload</li><li>Download sample CSV → Fill it → Re-upload to import up to 500,000 contacts</li></ul></li><li><strong>Automatically via sources:</strong><ul><li>Integrate WhatsApp, Facebook Leads, Google Sheets, APIs, Zapier, WooCommerce, etc.</li><li>These entries follow assignment rules set under Contact Settings</li></ul></li></ul>"
+      },
+      {
+        "question": "How do I search or filter contacts, and what problem does it solve?",
+        "answer": "<strong>Why it matters:</strong><br/>Search and filter features help quickly find relevant contacts. They solve the problem of navigating large contact lists and make segmentation or updates easier.<br/><br/><strong>How to use them:</strong><ul><li>Go to Sales CRM → Contacts</li><li>Use the Search bar for names, numbers, or emails</li><li>Apply Filters (tags, teams, agents, status) for precision</li><li>Use the Actions menu to tag, export, assign, or delete contacts in bulk</li></ul>"
+      },
+      {
+        "question": "What are custom fields in Contact Hub and why should I use them?",
+        "answer": "<strong>Why it matters:</strong><br/>Custom fields let you capture business-specific details not covered by default fields. They solve the problem of limited data capture by letting you track attributes like plan type or subscription status.<br/><br/><strong>How to add custom fields:</strong><ul><li>Go to Settings → Contact Settings → Custom Fields</li><li>Click Add Field</li><li>Select the field type (text, number, dropdown, etc.)</li><li>Name it and save—it appears across all contact profiles</li></ul>"
+      },
+      {
+        "question": "How can I assign tags to contacts and what purpose do they serve?",
+        "answer": "<strong>Why it matters:</strong><br/>Tags are labels used to group contacts by traits or actions. They solve the problem of poor segmentation and make it easier to run targeted campaigns.<br/><br/><strong>How to tag contacts:</strong><ul><li>Go to Sales CRM → Contacts</li><li>Open a contact and go to the Tags section on the right</li><li>Add existing tags or create new ones</li><li>For multiple contacts, select them and use the More Actions menu to tag in bulk</li></ul>"
+      },
+      {
+        "question": "What is a lead status and how do I manage it in Interakt?",
+        "answer": "<strong>Why it matters:</strong><br/>Lead status tracks the stage of each contact (e.g., New, Contacted, Converted). It solves the problem of losing track of follow-ups and improves sales reporting.<br/><br/><strong>How to manage lead statuses:</strong><ul><li>Go to Settings → Contact Settings → Lead Statuses</li><li>Click Add Status → Name it, choose a color, and save</li><li>Drag to rearrange statuses as per funnel stage</li><li>To update for any contact:<ul><li>Use the Status dropdown in Contact details</li><li>Or drag & drop in the Pipeline view</li></ul></li><li>Set a default status from Basic Configuration for incoming leads</li></ul>"
+      },
+      {
+        "question": "How do I assign account owners to leads and why is it necessary?",
+        "answer": "<strong>Why it matters:</strong><br/>Assigning account owners gives each lead a dedicated agent, solving the problem of overlap and missed follow-ups.<br/><br/><strong>Manual Assignment:</strong><ul><li>During contact creation, assign the Account Owner</li><li>After creation, open contact → Assign or reassign from the right panel</li></ul><strong>Creating agents:</strong><ul><li>Go to Settings → Agent Settings → Create Agent</li><li>Add user details, assign them to a team</li></ul><strong>Automated Assignment:</strong><ul><li>Go to Contact Settings → Account Owner Assignment Rules</li><li>Define rules based on traits, tags, or lead sources</li><li>Choose distribution method: round-robin or load balancing</li><li>Set fallback rules for unmatched entries</li><li>Ownership is not auto-updated after the first assignment</li></ul>"
+      },
+      {
+        "question": "How can I customize and navigate the Contact Hub dashboard?",
+        "answer": "<strong>Why it matters:</strong><br/>The Contact Hub is where all contacts are managed. Customizing the dashboard helps your team focus on relevant data and take action faster.<br/><br/><strong>How to configure it:</strong><ul><li>Go to Sales CRM → Contacts</li><li>Click on Modified Columns to show/hide fields</li><li>Use Search and Filters to locate specific contacts</li><li>Perform bulk actions like Export, Delete, or Add Tags from the Actions menu</li></ul>"
+      },
+      {
+        "question": "Why is it important to Sync the Contacts before starting campaigns?",
+        "answer": "<strong>Why it matters:</strong><br/>Campaigns rely on structured contact data. Without proper setup, your team risks losing leads or sending messages to the wrong segments.<br/><br/><strong>What to do before launching campaigns:</strong><ul><li>Upload or sync all leads from your data sources</li><li>Set up lead statuses and auto-assignment rules</li><li>Add relevant tags to segment your audience</li><li>Customize visible dashboard fields using column preferences</li><li>Ensure agents and teams are created, with correct permissions</li></ul>"
+      },
+      {
+        "question": "What’s the difference between leads and contacts in Interakt?",
+        "answer": "<strong>Why it matters:</strong><br/>In Interakt, leads and contacts are the same. They’re both managed in the Contact Hub, which acts as a single source of truth for customer data, assignment, tagging, and engagement tracking."
+      }
+    ],
+    "videos": [
+      {
+        "videoName": "Manage Contacts in Sales CRM",
+        "url": "https://youtu.be/HIEkczOD7CM"
+      }
+    ]
+  },
+  "/templates/list": {
+    "faqs": [
+      {
+        "question": "What is a WhatsApp notification template and how to create that in Interakt?",
+        "answer": "<strong>Why it matters:</strong><br/>A WhatsApp notification template is a pre-approved message format used to send structured messages outside the 24-hour user interaction window. It ensures your messages comply with WhatsApp’s guidelines and allows automation at scale.<br/><br/><strong>Steps to create it:</strong><ul><li>Go to Market in the left panel → Templates</li><li>Click Create Template, choose category and language</li><li>Add a Header (text or media), write the Body using {{}} variables</li><li>Add an optional Footer and up to 2 CTA buttons</li><li>Preview and Submit for WhatsApp approval</li><li>Once approved, the template will be ready for use in campaigns or APIs</li></ul>"
+      },
+      {
+        "question": "What components go into a WhatsApp template and how can I configure them?",
+        "answer": "<strong>Why it matters:</strong><br/>Templates are built with a Header, Body, Footer, and optional buttons. These help you structure the message for clarity, branding, and interactivity, enhancing customer engagement.<br/><br/><strong>How to configure:</strong><ul><li>In the template editor, select a Header (text, image, video, or doc)</li><li>Write the Body with placeholders like {{1}}, {{2}}</li><li>Add a short Footer (optional)</li><li>Choose buttons – either quick replies or CTAs (call/URL)</li><li>Save and submit for review</li></ul>"
+      },
+      {
+        "question": "How do template variables work and why should I use them?",
+        "answer": "<strong>Why it matters:</strong><br/>Variables like {{1}} let you personalize messages with names, order IDs, etc. They help tailor communication to each customer, improving click-through and reply rates.<br/><br/><strong>How to use them:</strong><ul><li>Add {{}} placeholders in the body text while creating the template</li><li>When sending, replace them with actual values via campaigns, APIs, or automations</li><li>Always preview to ensure variable placement and formatting look right</li></ul>"
+      },
+      {
+        "question": "How do I track the approval status of a template in Interakt?",
+        "answer": "<strong>Why it matters:</strong><br/>Templates show real-time statuses: Pending, Approved, or Rejected. This helps you identify which ones are ready for use and which need edits.<br/><br/><strong>How to track:</strong><ul><li>Go to Market in the Left Panel → Templates</li><li>View the status column beside each template</li><li>If Rejected, click the warning icon to see feedback and resubmit after corrections</li></ul>"
+      },
+      {
+        "question": "How can I use the Templates Library in Interakt?",
+        "answer": "<strong>Why it matters:</strong><br/>The Templates Library offers ready-made message formats for common use cases like order updates or reminders, helping you save time and reduce effort in content creation.<br/><br/><strong>How to use it:</strong><ul><li>Go to Market in the Left Panel → Templates → Template Library</li><li>Browse and select a template based on your use case</li><li>Customize the text and variables</li><li>Submit it for approval if required, and use it in campaigns once approved</li></ul>"
+      },
+      {
+        "question": "What is a WhatsApp Carousel and when should I use it?",
+        "answer": "<strong>Why it matters:</strong><br/>A Carousel is a swipeable message format with up to 10 cards—each showing an image, title, subtitle, and button. It's ideal for showcasing products, services, or options visually."
+      },
+      {
+        "question": "How do I create a WhatsApp Carousel template in Interakt?",
+        "answer": "<strong>Steps to create:</strong><ul><li>Go to Market → Templates → Create Template</li><li>Select Carousel format</li><li>For each card, add an image, title (max 45 chars), subtitle, and CTA button</li><li>Repeat for up to 10 cards</li><li>Preview the full carousel and Submit for approval</li></ul>"
+      },
+      {
+        "question": "How do I send WhatsApp templates automatically using APIs or Webhooks?",
+        "answer": "<strong>Why it matters:</strong><br/>Using APIs or Webhooks lets you send messages instantly based on events like order confirmation or sign-up—reducing manual work and ensuring timely communication.<br/><br/><strong>Steps to automate:</strong><ul><li>Ensure your template is approved</li><li>Go to Developer Settings → API Docs → Send Template Message</li><li>Use your API key and provide required parameters:<ul><li>Phone number</li><li>Template name</li><li>Language</li><li>Variable values</li></ul></li><li>Set up Webhooks or Zapier to trigger these APIs when events occur</li></ul>"
+      },
+      {
+        "question": "What parameters do I need to include while sending template messages via API?",
+        "answer": "<strong>Key parameters:</strong><ul><li>to: phone number in international format</li><li>template_name: name of the approved template</li><li>language_code: language set in the template (e.g., en_US)</li><li>header, body, and button variables as required</li><li>channel: typically set to “whatsapp”</li><li>Optional: callback_url for delivery status</li></ul>"
+      },
+      {
+        "question": "How do I preview a template before sending it live?",
+        "answer": "<strong>Why it matters:</strong><br/>Previewing helps verify message formatting, variable placement, and visual structure—preventing errors before live campaigns.<br/><br/><strong>How to preview:</strong><ul><li>While editing or creating a template, click Preview</li><li>Enter sample values for each variable</li><li>Review how the full message looks, including buttons and media</li><li>Optionally send a test message to your number for final validation</li></ul>"
+      }
+    ],
+    "videos": [
+      {
+        "videoName": "Create Caraousel Template",
+        "url": "https://youtu.be/t8Qi76EnRLs"
+      },
+      {
+        "videoName": "Create Notification Templates",
+        "url": "https://youtu.be/tE_RsP_SXKE"
+      }
+    ]
+  },
+  "/notification": {
+    "faqs": [],
+
+    "videos": [
+      {
+        "videoName": "Create Notification Campiagn",
+        "url": "https://youtu.be/tE_RsP_SXKE"
+      },
+      {
+        "videoName": "Create CTWA  Campaign",
+        "url": "https://youtu.be/K9srhL5SqiE"
+      },
+      {
+        "videoName": "Setup One Time Campaign",
+        "url": "https://youtu.be/UXD9pnZ4Wqw"
+      }
+    ]
+  },
+  "/automation/my-automations": {
+    "faqs": [],
+
+    "videos": [
+      {
+        "videoName": "Create Notification Campiagn",
+        "url": "https://youtu.be/tE_RsP_SXKE"
+      }
+    ]
+  },
+  "/automation/custom-reply": {
+    "faqs": [],
+
+    "videos": [
+      {
+        "videoName": "Setup Custom Autoreply",
+        "url": "https://youtu.be/QKu3BtLqhuc"
+      }
+    ]
+  },
+  "/pipelines/": {
+    "faqs": [],
+
+    "videos": [
+      {
+        "videoName": "Sales Pipeline in CRM",
+        "url": "https://youtu.be/xodTKzfJdpQ"
+      }
+    ]
+  },
+  "/tasks": {
+    "faqs": [],
+
+    "videos": []
+  },
+  "/automation/workflows": {
+    "faqs": [],
+
+    "videos": [
+      {
+        "videoName": "Setup Custom Workflows",
+        "url": "https://www.youtube.com/watch?v=T34PGJ-c210"
+      }
+    ]
+  }
+}
