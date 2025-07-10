@@ -1,5 +1,6 @@
 {
   "/inbox": {
+    "pageName": "Inbox",
     "faqs": [
       {
         "question": "What is Interakt’s Shared Team Inbox and why is it important?",
@@ -59,9 +60,19 @@
       }
     ],
 
-    "videos": []
+    "videos": [
+      {
+        "videoName": "Create Caraousel Template",
+        "url": "https://youtu.be/t8Qi76EnRLs"
+      },
+      {
+        "videoName": "Create Notification Templates",
+        "url": "https://youtu.be/tE_RsP_SXKE"
+      }
+    ]
   },
   "/contacts/list": {
+    "pageName": "Contact Hub",
     "faqs": [
       {
         "question": "What is the Contact Timeline and how does it help in Interakt?",
@@ -104,14 +115,10 @@
         "answer": "<strong>Why it matters:</strong><br/>In Interakt, leads and contacts are the same. They’re both managed in the Contact Hub, which acts as a single source of truth for customer data, assignment, tagging, and engagement tracking."
       }
     ],
-    "videos": [
-      {
-        "videoName": "Manage Contacts in Sales CRM",
-        "url": "https://youtu.be/HIEkczOD7CM"
-      }
-    ]
+    "videos": []
   },
   "/templates/list": {
+    "pageName": "Templates",
     "faqs": [
       {
         "question": "What is a WhatsApp notification template and how to create that in Interakt?",
@@ -166,6 +173,7 @@
     ]
   },
   "/notification": {
+    "pageName": "Campaigns",
     "faqs": [],
 
     "videos": [
@@ -184,6 +192,7 @@
     ]
   },
   "/automation/my-automations": {
+    "pageName": "My Automation",
     "faqs": [],
 
     "videos": [
@@ -194,6 +203,7 @@
     ]
   },
   "/automation/custom-reply": {
+    "pageName": "Custom Auto Reply",
     "faqs": [],
 
     "videos": [
@@ -204,6 +214,7 @@
     ]
   },
   "/pipelines/": {
+    "pageName": "Sales Pipeline",
     "faqs": [],
 
     "videos": [
@@ -214,11 +225,13 @@
     ]
   },
   "/tasks": {
+    "pageName": "Tasks",
     "faqs": [],
 
     "videos": []
   },
   "/automation/workflows": {
+    "pageName": "Workflows",
     "faqs": [],
 
     "videos": [
