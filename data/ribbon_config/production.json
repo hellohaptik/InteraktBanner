@@ -1,8 +1,8 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-29th-july-2025-A",
-    "text": "Scheduled Maintenance: Our platform will undergo planned downtime from midnight 01:00 AM IST to 01:30 IST i.e.(01/08/2024 past mid-night) for approximately 30 minutes. We apologize for any inconvenience caused and appreciate your patience as we work to improve your experience. Affected Areas: Web Platform, Mobile Application, Public APIs",
+    "id": "ribbon-29th-july-2025-B",
+    "text": "Scheduled Maintenance: Our platform will undergo planned downtime from midnight 01:00 AM IST to 01:30 AM IST i.e.(01/08/2025 past mid-night) for approximately 30 minutes. We apologize for any inconvenience caused and appreciate your patience as we work to improve your experience. Affected Areas: Web Platform, Mobile Application, Public APIs",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
