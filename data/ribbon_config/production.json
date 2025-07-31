@@ -1,34 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-29th-july-2025-B",
-    "text": "Scheduled Maintenance: Our platform will undergo planned downtime from midnight 01:00 AM IST to 03:00 AM IST i.e.(01/08/2025 past mid-night). We apologize for any inconvenience caused and appreciate your patience as we work to improve your experience. Affected Areas: Web Platform, Mobile Application, Public APIs",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff"
-    },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
-    "pages": [
-      "/inbox",
-      "/templates/list",
-      "^/notification$",
-      "/contacts/list",
-      "/login",
-      "/signup"
-    ],
-    "expireOn": {
-      "year": 2025,
-      "month": 8,
-      "date": 1,
-      "hour": 2
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-24th-june-2025",
     "text": "Join our Product Expert, Dhananjay Adodra, to learn how WhatsApp Sales CRM can help close more deals, faster on 26th June at 12 PM!",
     "theme": {
