@@ -1,15 +1,15 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-24th-june-2025",
-    "text": "Join our Product Expert, Dhananjay Adodra, to learn how WhatsApp Sales CRM can help close more deals, faster on 26th June at 12 PM!",
+    "id": "ribbon-28th-aug-2025",
+    "text": "Discover how Interakt’s WhatsApp Sales CRM can help you close more deals, faster—join our webinar every Wednesday at 11 AM! Register Now",
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
     },
     "cta": {
       "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/1617507506189/WN_Rte35oCgQmCpuRXrztwDDg"
+      "url": "https://us06web.zoom.us/webinar/register/9017454766742/WN_xWmVLYaKRrOnht1ybm_d7Q"
     },
     "filters": {
       "signupSources": ["salesCrm", "Traditional"]
@@ -17,9 +17,9 @@
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2025,
-      "month": 6,
-      "date": 26,
-      "hour": 11
+      "month": 10,
+      "date": 30,
+      "hour": 12
     }
   },
   {
