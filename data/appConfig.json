@@ -1,0 +1,8 @@
+{
+  "development": {
+    "onboarding_v3_percentage": 50
+  },
+  "production": {
+    "onboarding_v3_percentage": 0
+  }
+}
