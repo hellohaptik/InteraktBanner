@@ -2,7 +2,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-10th-sept-2025",
-    "text": "Instagram features on Interakt may not work properly due to some Meta issues. We are working with Meta to resolve this in the next few hours.",
+    "text": "Instagram features may not work properly due to some Meta issues. We are working with Meta to resolve this in the next few hours.",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
@@ -14,13 +14,13 @@
     },
     "filters": {
       "isInstaActive": true,
-      "isInstaConnected": true,
+      "isInstaConnected": true
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
     "expireOn": {
       "year": 2025,
       "month": 9,
-      "date": 11,
+      "date": 12,
       "hour": 13
     }
   },
