@@ -1,6 +1,31 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-10th-sept-2025",
+    "text": "Instagram features on Interakt may not work properly due to some Meta issues. We are working with Meta to resolve this in the next few hours.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "isInstaActive": true,
+      "isInstaConnected": true,
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
+    "expireOn": {
+      "year": 2025,
+      "month": 9,
+      "date": 11,
+      "hour": 13
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-24th-june-2025",
     "text": "Join our Product Expert, Dhananjay Adodra, to learn how WhatsApp Sales CRM can help close more deals, faster on 26th June at 12 PM!",
     "theme": {
