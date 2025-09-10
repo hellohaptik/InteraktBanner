@@ -15,7 +15,6 @@
     "filters": {
       "isInstaActive": true,
       "isInstaConnected": true,
-      "plans": ["Growth (free trial)", "Instagram Starter"]
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
     "expireOn": {
