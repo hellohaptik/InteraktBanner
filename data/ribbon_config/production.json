@@ -14,7 +14,7 @@
     },
     "filters": {
       "isInstaActive": true,
-      "isInstaConnected": true,
+      "isInstaConnected": true
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
     "expireOn": {
