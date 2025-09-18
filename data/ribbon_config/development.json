@@ -1,8 +1,12 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-12th-sept-2025",
-    "text": "Festive Offer: Recharge your wallet by Rs.20,000 or more & get 2% extra amount credited! Offer valid till 15th September.",
+    "id": "ribbon-18th-sept-2025",
+    "text": "[Webinar] Learn how to boost sales, support customers & manage orders with WhatsApp AI Agents. 30th Sept | 11 AM",
+    "cta": {
+      "text": "[Register Now]",
+      "url": "https://us06web.zoom.us/webinar/register/8617581765706/WN_jPkLLbYNR2qls7Z-vrZ-ZQ"
+    },
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
