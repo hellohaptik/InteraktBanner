@@ -1,6 +1,7 @@
 {
     "local_cache_time": 1,
     "resend_timer": 5,
+    "payment_due_hours_limit": 48,
     "logger_push_timer": 60,
     "logger_enabled": false,
     "logger_batchsize": 25,
