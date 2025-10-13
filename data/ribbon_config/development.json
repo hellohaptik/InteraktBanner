@@ -1,6 +1,41 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-13th-oct-2025",
+    "text": "Unlock festive growth with Interakt x Adkrity x FolkTalk - drive more leads, engagement & sales!",
+    "cta": {
+      "text": "Get Started",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfB6O1ZZzA4S-tL8eGbRciuDxLeSnuOr1KglPSJVlv2BVmttA/viewform?usp=header"
+    },
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "plans": [
+        "Starter",
+        "Growth",
+        "Advanced",
+        "Sales CRM",
+        "Instagram Starter"
+      ],
+      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 10,
+      "date": 15,
+      "hour": 0
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-18th-sept-2025",
     "text": "[Webinar] Learn how to boost sales, support customers & manage orders with WhatsApp AI Agents. 30th Sept | 11 AM",
     "cta": {
