@@ -31,7 +31,36 @@
       "year": 2025,
       "month": 10,
       "date": 15,
-      "hour": 0
+      "hour": 24
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-15th-oct-2025",
+    "text": "This Diwali, your 1st WhatsApp campaign is on us! Get FREE credits + upto 15% off on Interakt Plans. Valid till 21st Oct",
+    "cta": {
+      "text": "Claim Now",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdZRd3QZGPjX1RYTVErik4bpPrN1Lcz24jyjzgaCq7VO5ttMA/viewform?usp=header"
+    },
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "plans": ["Growth (free trial)"],
+      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 10,
+      "date": 21,
+      "hour": 24
     }
   },
   {
