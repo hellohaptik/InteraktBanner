@@ -2,7 +2,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-15th-nov-2025",
-    "text": "Important: For your security, always access your account via app.interakt.ai/login. If you receive any other link, do not click or share your details. Report suspicious links to our support team immediately.",
+    "text": "Important Security Note: Use only app.interakt.ai/login to access your account, ignore other links and report anything suspicious to support right away.",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
