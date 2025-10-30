@@ -1,6 +1,31 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-15th-nov-2025",
+    "text": "Important: For your security, always access your account via app.interakt.ai/login. If you receive any other link, do not click or share your details. Report suspicious links to our support team immediately.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "icon": {
+      "name": "alertCircle",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "domains": ["app.interakt.ai", "appdev.interakt.ai"],
+      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list", "/login"],
+    "expireOn": {
+      "year": 2025,
+      "month": 11,
+      "date": 15,
+      "hour": 24
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-13th-oct-2025",
     "text": "Unlock festive growth with Interakt x Adkrity x FolkTalk - drive more leads, engagement & sales!",
     "cta": {
