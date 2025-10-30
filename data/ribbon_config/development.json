@@ -13,8 +13,7 @@
       "color": "#ffffff"
     },
     "filters": {
-      "domains": ["app.interakt.ai", "appdev.interakt.ai"],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+      "domains": ["app.interakt.ai", "appdev.interakt.ai"]
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list", "/login"],
     "expireOn": {
