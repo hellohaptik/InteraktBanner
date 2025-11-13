@@ -1,6 +1,36 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-13th-nov-2025",
+    "text": "Meta x Interakt Webinar] Learn how to create & launch WhatsApp Ads that drive real sales on 20th November at 11:00 AM.",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/5717630117000/WN_NwoA69XpRHq18XgJ3uSW_A"
+    },
+    "filters": {
+      "plans": [
+        "Starter",
+        "Growth",
+        "Advanced",
+        "Sales CRM",
+        "Instagram Starter"
+      ],
+      "signupSources": ["salesCrm", "Shopify", "Traditional"],
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2025,
+      "month": 11,
+      "date": 20,
+      "hour": 10
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-15th-nov-2025",
     "text": "Important: For your security, always access your account via app.interakt.ai/login. If you receive any other link, do not click or share your details. Report suspicious links to our support team immediately.",
     "theme": {
