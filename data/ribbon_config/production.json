@@ -19,7 +19,7 @@
         "Sales CRM",
         "Instagram Starter"
       ],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"],
+      "signupSources": ["salesCrm", "Shopify", "Traditional"]
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
