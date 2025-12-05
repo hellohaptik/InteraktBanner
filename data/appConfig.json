@@ -1,8 +1,8 @@
 {
   "development": {
-    "onboarding_v3_percentage": 50
+    "disable_template_appeal": false
   },
   "production": {
-    "onboarding_v3_percentage": 0
+    "disable_template_appeal": false
   }
 }
