@@ -1,5 +1,35 @@
 [
-   {
+    {
+    "closeLimit": 1,
+    "id": "ribbon-8th-dec-2025",
+    "text": "Meet your 24/7 AI Employee on WhatsApp — join our live AI Agent demo (Mon/Wed/Fri)",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/4717651851226/WN_R0ZUqs5dTQuFo8vUPCt_Qw"
+    },
+    "filters": {
+      "plans": [
+        "Starter",
+        "Growth",
+        "Advanced",
+        "Sales CRM",
+        "Instagram Starter"
+      ],
+      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+    },
+    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "expireOn": {
+      "year": 2026,
+      "month": 1,
+      "date": 8,
+      "hour": 10
+    }
+  },
+  {
     "closeLimit": 1,
     "id": "ribbon-13th-nov-2025",
     "text": "[Meta x Interakt Webinar] Learn how to create & launch WhatsApp Ads that drive real sales on 20th November at 11:00 AM.",
