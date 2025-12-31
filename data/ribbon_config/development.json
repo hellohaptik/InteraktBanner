@@ -1,31 +1,24 @@
 [
     {
     "closeLimit": 1,
-    "id": "ribbon-8th-dec-2025",
-    "text": "Meet your 24/7 AI Employee on WhatsApp — join our live AI Agent demo (Mon/Wed/Fri)",
+    "id": "ribbon-31st-dec-2025",
+    "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
     "theme": {
-      "bg": "#3C74F3",
+      "bg": "#FFA500",
       "color": "#ffffff"
     },
     "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/4717651851226/WN_R0ZUqs5dTQuFo8vUPCt_Qw"
+      "text": "See Details",
+      "url": "https://interaktprodmediastorage.blob.core.windows.net/mediaprodstoragecontainer/74d49d00-7a9b-4c70-82d8-76efab63a844/message_template_media/0EddWEu6JYbA/Pricing%20Comparison%20%28Old%20vs%20New%20Rates%29.pdf?se=2030-12-03T13%3A20%3A12Z&sp=rt&sv=2019-12-12&sr=b&sig=6FUXOCmpJjCa0ZVqL9Fsf4p/U4e6f5fyHXRsv%2BXwyXU%3D"
     },
     "filters": {
-      "plans": [
-        "Starter",
-        "Growth",
-        "Advanced",
-        "Sales CRM",
-        "Instagram Starter"
-      ],
       "signupSources": ["salesCrm", "Shopify", "Traditional"]
     },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2026,
       "month": 1,
-      "date": 8,
+      "date": 7,
       "hour": 10
     }
   },
