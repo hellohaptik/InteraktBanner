@@ -1,5 +1,28 @@
 [
    {
+        "closeLimit": 1,
+        "id": "ribbon-6th-jan-2026",
+        "text": "We’re currently experiencing a service issue. Our team has identified the problem and is actively working to resolve it as quickly as possible.",
+        "theme": {
+            "bg": "#BE364E",
+            "color": "#ffffff"
+        },
+        "icon": {
+            "iconName": "campaignBlack",
+            "iconSize": "small",
+            "color": "#ffffff"
+        },
+        "pages": [
+            "/login"
+        ],
+        "expireOn": {
+            "year": 2024,
+            "month": 1,
+            "date": 30,
+            "hour": 15
+        }
+    },
+   {
       "closeLimit": 1,
        "id": "ribbon-31st-dec-2025",
        "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
