@@ -16,9 +16,9 @@
             "/login"
         ],
         "expireOn": {
-            "year": 2024,
+            "year": 2026,
             "month": 1,
-            "date": 30,
+            "date": 7,
             "hour": 15
         }
     },
