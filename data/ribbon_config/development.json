@@ -1,79 +1,70 @@
 [
     {
     "closeLimit": 1,
-    "id": "ribbon-31st-dec-2025",
+    "id": "ribbon-20th-jan-2025",
     "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
+    "priority": 2,
     "theme": {
       "bg": "#FFA500",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "variant": "primary",
     },
     "cta": {
       "text": "See Details",
       "url": "https://interaktprodmediastorage.blob.core.windows.net/mediaprodstoragecontainer/74d49d00-7a9b-4c70-82d8-76efab63a844/message_template_media/0EddWEu6JYbA/Pricing%20Comparison%20%28Old%20vs%20New%20Rates%29.pdf?se=2030-12-03T13%3A20%3A12Z&sp=rt&sv=2019-12-12&sr=b&sig=6FUXOCmpJjCa0ZVqL9Fsf4p/U4e6f5fyHXRsv%2BXwyXU%3D"
     },
-    "filters": {
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
-    },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
       "year": 2026,
       "month": 1,
-      "date": 7,
+      "date": 22,
       "hour": 10
     }
   },
   {
     "closeLimit": 1,
-    "id": "ribbon-13th-nov-2025",
+    "id": "ribbon-20th-jan-2025-a",
+    "priority": 1,
     "text": "[Meta x Interakt Webinar] Learn how to create & launch WhatsApp Ads that drive real sales on 20th November at 11:00 AM.",
     "theme": {
       "bg": "#3C74F3",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "variant": "primaryV2",
     },
     "cta": {
       "text": "Register Now",
       "url": "https://us06web.zoom.us/webinar/register/5717630117000/WN_NwoA69XpRHq18XgJ3uSW_A"
     },
-    "filters": {
-      "plans": [
-        "Starter",
-        "Growth",
-        "Advanced",
-        "Sales CRM",
-        "Instagram Starter"
-      ],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
-    },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
     "expireOn": {
-      "year": 2025,
-      "month": 11,
-      "date": 20,
+      "year": 2026,
+      "month": 1,
+      "date": 22,
       "hour": 10
     }
   },
   {
     "closeLimit": 1,
-    "id": "ribbon-15th-nov-2025",
+    "id": "ribbon-20th-jan-2026-a",
+    "priority": 1,
+    "position": "top",
     "text": "Important: For your security, always access your account via app.interakt.ai/login. If you receive any other link, do not click or share your details. Report suspicious links to our support team immediately.",
     "theme": {
       "bg": "#BE364E",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "variant": "alert",
     },
     "icon": {
       "name": "alertCircle",
       "size": "small",
       "color": "#ffffff"
     },
-    "filters": {
-      "domains": ["app.interakt.ai", "appdev.interakt.ai"]
-    },
     "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list", "/login"],
     "expireOn": {
-      "year": 2025,
-      "month": 11,
-      "date": 8,
-      "hour": 24
+      "year": 2026,
+      "month": 1,
+      "date": 22,
+      "hour": 22
     }
   },
   {
@@ -86,7 +77,7 @@
     },
     "theme": {
       "bg": "#3C74F3",
-      "color": "#ffffff"
+      "color": "#ffffff",
     },
     "icon": {
       "name": "bell",
