@@ -7,7 +7,7 @@
     "theme": {
       "bg": "#FFA500",
       "color": "#ffffff",
-      "variant": "primary",
+      "variant": "primary"
     },
     "cta": {
       "text": "See Details",
@@ -29,7 +29,7 @@
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff",
-      "variant": "primaryV2",
+      "variant": "primaryV2"
     },
     "cta": {
       "text": "Register Now",
@@ -52,7 +52,7 @@
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff",
-      "variant": "alert",
+      "variant": "alert"
     },
     "icon": {
       "name": "alertCircle",
