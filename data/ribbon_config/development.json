@@ -1,7 +1,7 @@
 [
     {
     "closeLimit": 1,
-    "id": "ribbon-20th-jan-2025",
+    "id": "ribbon-20th-jan-2025-a",
     "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
     "priority": 2,
     "theme": {
@@ -23,7 +23,7 @@
   },
   {
     "closeLimit": 1,
-    "id": "ribbon-20th-jan-2025-a",
+    "id": "ribbon-20th-jan-2026-b",
     "priority": 1,
     "text": "[Meta x Interakt Webinar] Learn how to create & launch WhatsApp Ads that drive real sales on 20th November at 11:00 AM.",
     "theme": {
@@ -45,7 +45,7 @@
   },
   {
     "closeLimit": 1,
-    "id": "ribbon-20th-jan-2026-a",
+    "id": "ribbon-20th-jan-2026-c",
     "priority": 1,
     "position": "top",
     "text": "Important: For your security, always access your account via app.interakt.ai/login. If you receive any other link, do not click or share your details. Report suspicious links to our support team immediately.",
@@ -77,7 +77,7 @@
     },
     "theme": {
       "bg": "#3C74F3",
-      "color": "#ffffff",
+      "color": "#ffffff"
     },
     "icon": {
       "name": "bell",
