@@ -107,3 +107,173 @@ Before submission, confirm:
 - The message contains zero promotional intent
 - The message content cannot be interpreted as marketing
 - The message provides essential, factual information only
+
+UTILITY TEMPLATE EXAMPLES – ACCOUNT CREATION CONFIRMATION
+
+Example 1 (English – en_GB)
+Header:
+Finalize account set-up
+
+Body:
+Hi {{1}},
+
+Your new account has been created successfully.
+
+Please verify {{2}} to complete your profile.
+
+Parameters:
+{{1}} = User name
+{{2}} = Email address
+
+Button:
+- Verify account (URL)
+
+---
+
+Example 2 (French – fr)
+Header:
+Finalisez la configuration du compte
+
+Body:
+Bonjour {{1}},
+
+Votre nouveau compte a été créé correctement.
+
+Veuillez confirmer votre {{2}} pour terminer la configuration de votre profil.
+
+Parameters:
+{{1}} = Nom de l’utilisateur
+{{2}} = Adresse e-mail
+
+Button:
+- Confirmer le compte (URL)
+
+---
+
+Example 3 (Norwegian – nb)
+Header:
+Fullfør konfigurering av konto
+
+Body:
+Hei, {{1}}
+
+Den nye kontoen din er opprettet.
+
+Bekreft {{2}} for å fullføre profilen.
+
+Parameters:
+{{1}} = Brukernavn
+{{2}} = E-postadresse
+
+Button:
+- Bekreft konto (URL)
+
+---
+
+Example 4 (Hindi/Marathi-style regional example – mr)
+Header:
+खात्याचे सेटअप पूर्ण करा
+
+Body:
+नमस्कार {{1}},
+
+तुमचे नवीन खाते तयार झाले आहे.
+
+तुमची प्रोफाइल पूर्ण करण्यासाठी कृपया {{2}} याची पडताळणी करा.
+
+Parameters:
+{{1}} = वापरकर्त्याचे नाव
+{{2}} = ईमेल पत्ता
+
+Button:
+- खात्याची पडताळणी करा (URL)
+
+---
+
+Example 5 (Germanic-language structure – sv)
+Header:
+Slutför konfiguration av kontot
+
+Body:
+Hej {{1}}!
+
+Ditt nya konto har skapats.
+
+Verifiera {{2}} och slutför profilen.
+
+Parameters:
+{{1}} = Användarnamn
+{{2}} = E-postadress
+
+Button:
+- Verifiera konto (URL)
+
+---
+
+Example 6 (Asian-language structure – zh_TW)
+Header:
+完成帳號設定
+
+Body:
+{{1}}您好：
+
+您的新帳號已成功建立。請驗證{{2}}，即可完成個人檔案。
+
+Parameters:
+{{1}} = 使用者名稱
+{{2}} = 電子郵件地址
+
+Button:
+- 驗證帳號 (URL)
+
+---
+
+Example 7 (Middle East – he)
+Header:
+סיום הגדרת החשבון
+
+Body:
+הי {{1}},
+
+סיימת ליצור את החשבון החדש שלך.
+
+כדי להשלים את הפרופיל צריך לאמת את {{2}}.
+
+Parameters:
+{{1}} = שם המשתמש
+{{2}} = כתובת אימייל
+
+Button:
+- אימות החשבון (URL)
+
+---
+
+Example 8 (South-East Asia – vi)
+Header:
+Hoàn tất quy trình thiết lập tài khoản
+
+Body:
+Chào {{1}},
+
+Tài khoản mới của bạn đã được tạo thành công.
+
+Vui lòng xác minh {{2}} để hoàn thiện trang cá nhân của bạn.
+
+Parameters:
+{{1}} = Tên người dùng
+{{2}} = Địa chỉ email
+
+Button:
+- Xác minh tài khoản (URL)
+
+---
+
+COMMON PATTERN OBSERVED ACROSS ALL UTILITY EXAMPLES
+
+- Clear transactional intent: account creation confirmation
+- Explicit reference to the triggering event (account creation)
+- Use of concrete variables (user name, email address)
+- Neutral, factual language
+- Single, required CTA to complete the process
+- No marketing language, offers, or engagement prompts
+- CTA strictly supports completion of a required action
