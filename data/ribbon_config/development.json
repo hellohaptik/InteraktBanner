@@ -1,6 +1,35 @@
 [
     {
     "closeLimit": 1,
+    "id": "ribbon-4th-feb-2026",
+    "text": "See AI Agent in Action. Book a 1:1 Demo with our in-house AI expert.",
+    "cta": {
+      "text": "Book Now",
+      "url": "https://calendar.app.google/Ck7q3MkRZyTMsLaj8"
+    },
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "name": "youtubeOutlined",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Shopify"]
+    },
+    "pages": ["^/(?!login(?:/|$)|signup(?:/|$)).*"],
+    "expireOn": {
+      "year": 2026,
+      "month": 2,
+      "date": 11,
+      "hour": 24
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-20th-jan-2025-a",
     "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
     "priority": 2,
