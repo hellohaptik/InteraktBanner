@@ -1,12 +1,43 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-13th-feb-2026",
+    "text": "Live Webinar | Maximize WhatsApp Campaign Deliveries with RCS | 24th Feb | 11 AM",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/6317708991596/WN_NrSjIewWQZakbmF26CxDSA"
+    },
+    "position": "top",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "name": "youtubeOutlined",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": ["Shopify", "Traditional", "AdsPlan", "salesCrm"]
+    },
+    "pages": ["^/(?!login(?:/|$)|signup(?:/|$)).*"],
+    "expireOn": {
+      "year": 2026,
+      "month": 2,
+      "date": 24,
+      "hour": 10
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-4th-feb-2026",
     "text": "See AI Agent in Action. Book a 1:1 Demo with our in-house AI expert.",
     "cta": {
       "text": "Book Now",
       "url": "https://calendar.app.google/Ck7q3MkRZyTMsLaj8"
     },
+    "position": "top",
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff",
