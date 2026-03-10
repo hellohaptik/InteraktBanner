@@ -2,6 +2,28 @@
   {
     "closeLimit": 1,
     "id": "ribbon-10-mar-2026",
+    "text": "PLEASE IGNORE: Jenkins Automated Banner Update Testing. This ribbon will expire automatically in sometime. Thanks for your understanding.",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "expireOn": {
+      "year": 2026,
+      "month": 3,
+      "date": 10,
+      "hour": 18
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-10-mar-2026",
     "text": "IGNORE : Jenkins Automated Banner Update Testing",
     "position": "top",
     "theme": {
@@ -18,7 +40,7 @@
       "year": 2026,
       "month": 3,
       "date": 10,
-      "hour": 17
+      "hour": 11
     }
   },
   {
