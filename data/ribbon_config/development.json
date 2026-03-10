@@ -2,6 +2,28 @@
   {
     "closeLimit": 1,
     "id": "ribbon-10-mar-2026",
+    "text": "Jenkins Automated Banner Update Testing.. IGNORE",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "expireOn": {
+      "year": 2026,
+      "month": 3,
+      "date": 10,
+      "hour": 17
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-10-mar-2026",
     "text": "Jenkins Automated Banner Update Testing",
     "position": "top",
     "theme": {
@@ -17,7 +39,7 @@
       "year": 2026,
       "month": 3,
       "date": 10,
-      "hour": 16
+      "hour": 10
     }
   },
   {
