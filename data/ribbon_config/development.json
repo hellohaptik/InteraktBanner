@@ -1,28 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-11-mar-2026-175353",
-    "text": "IGNORE - Jenkins Automated Banner Update Testing",
-    "position": "top",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff",
-      "variant": "alert"
-    },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
-    "expireOn": {
-      "year": 2026,
-      "month": 3,
-      "date": 11,
-      "hour": 18
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-13th-feb-2026",
     "text": "Live Webinar | Maximize WhatsApp Campaign Deliveries with RCS | 24th Feb | 11 AM",
     "cta": {
