@@ -1,6 +1,28 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-12-mar-2026-193608",
+    "text": "Application down",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "expireOn": {
+      "year": 2026,
+      "month": 3,
+      "date": 12,
+      "hour": 20
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-13th-feb-2026",
     "text": "Live Webinar | Maximize WhatsApp Campaign Deliveries with RCS | 24th Feb | 11 AM",
     "cta": {
