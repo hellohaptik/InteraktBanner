@@ -68,6 +68,9 @@ if action == "add":
           "iconSize": "small",
           "color": "#ffffff"
         },
+        "pages": [
+            "^/(?!signup(?:/|$)).*"
+        ],
         "expireOn": {
             "year": expiry_dt.year,
             "month": expiry_dt.month,
