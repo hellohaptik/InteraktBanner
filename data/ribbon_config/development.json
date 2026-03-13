@@ -1,6 +1,28 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-13-mar-2026-130202",
+    "text": "Downtime Ribbon Testing",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "expireOn": {
+      "year": 2026,
+      "month": 3,
+      "date": 13,
+      "hour": 14
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-13-mar-2026-124242",
     "text": "Downtime test",
     "position": "top",
@@ -21,7 +43,7 @@
       "year": 2026,
       "month": 3,
       "date": 13,
-      "hour": 13
+      "hour": 7
     }
   },
   {
