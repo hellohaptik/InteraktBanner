@@ -37,7 +37,7 @@
       "color": "#ffffff"
     },
     "pages": [
-      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+      "^/(?!signup(?:/|$)).*"
     ],
     "expireOn": {
       "year": 2026,
