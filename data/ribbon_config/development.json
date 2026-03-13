@@ -1,6 +1,28 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-13-mar-2026-124242",
+    "text": "Downtime test",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "expireOn": {
+      "year": 2026,
+      "month": 3,
+      "date": 13,
+      "hour": 13
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-12-mar-2026-194135",
     "text": "Application down",
     "position": "top",
