@@ -81,7 +81,7 @@ if action == "add":
 
     data.insert(0, new_ribbon)
 
-    print(f"Ribbon added: {ribbon_id}")
+    print(f"RIBBON_ID: {ribbon_id}")
 
 elif action == "remove":
 
