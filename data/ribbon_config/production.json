@@ -1,31 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-16-apr-2026-141305",
-    "text": "We\u2019re currently experiencing some issues. We are working to resolve them as quickly as possible.",
-    "position": "top",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff",
-      "variant": "alert"
-    },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
-    "pages": [
-      "^/(?!signup(?:/|$)).*"
-    ],
-    "expireOn": {
-      "year": 2026,
-      "month": 4,
-      "date": 16,
-      "hour": 1
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-13th-feb-2026",
     "text": "Maximize WhatsApp Campaign Deliveries with RCS | 24th Feb | 11 AM",
     "cta": {
