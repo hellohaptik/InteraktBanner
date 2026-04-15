@@ -1,6 +1,31 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-16-apr-2026-141305",
+    "text": "We\u2019re currently experiencing some issues. We are working to resolve them as quickly as possible.",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": [
+      "^/(?!signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 4,
+      "date": 16,
+      "hour": 1
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-13th-feb-2026",
     "text": "Maximize WhatsApp Campaign Deliveries with RCS | 24th Feb | 11 AM",
     "cta": {
@@ -19,9 +44,16 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": ["Shopify", "Traditional", "AdsPlan", "salesCrm"]
+      "signupSources": [
+        "Shopify",
+        "Traditional",
+        "AdsPlan",
+        "salesCrm"
+      ]
     },
-    "pages": ["^/(?!login(?:/|$)|signup(?:/|$)).*"],
+    "pages": [
+      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+    ],
     "expireOn": {
       "year": 2026,
       "month": 2,
@@ -30,59 +62,72 @@
     }
   },
   {
-     "closeLimit": 1,
-     "id": "ribbon-4th-feb-2026",
-     "text": "See AI Agent in Action. Book a 1:1 Demo with our in-house AI expert.",
-     "cta": {
-       "text": "Book Now",
-       "url": "https://calendar.app.google/Ck7q3MkRZyTMsLaj8"
-     },
-     "position": "top",
-     "theme": {
-       "bg": "#3C74F3",
-       "color": "#ffffff",
-       "variant": "primary"
-     },
-     "icon": {
-       "name": "youtubeOutlined",
-       "size": "small",
-       "color": "#ffffff"
-     },
-     "filters": {
-       "signupSources": ["Shopify"]
-     },
-     "pages": ["^/(?!login(?:/|$)|signup(?:/|$)).*"],
-     "expireOn": {
-       "year": 2026,
-       "month": 2,
-       "date": 11,
-       "hour": 24
-     }
-   },
-   {
-      "closeLimit": 1,
-       "id": "ribbon-31st-dec-2025",
-       "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
-       "theme": {
-         "bg": "#FFA500",
-         "color": "#ffffff"
-       },
-       "cta": {
-         "text": "See Details",
-         "url": "https://interaktprodmediastorage.blob.core.windows.net/mediaprodstoragecontainer/74d49d00-7a9b-4c70-82d8-76efab63a844/message_template_media/0EddWEu6JYbA/Pricing%20Comparison%20%28Old%20vs%20New%20Rates%29.pdf?se=2030-12-03T13%3A20%3A12Z&sp=rt&sv=2019-12-12&sr=b&sig=6FUXOCmpJjCa0ZVqL9Fsf4p/U4e6f5fyHXRsv%2BXwyXU%3D"
-       },
-       "filters": {
-         "signupSources": ["salesCrm", "Shopify", "Traditional"]
-       },
-       "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
-       "expireOn": {
-         "year": 2026,
-         "month": 1,
-         "date": 7,
-         "hour": 10
-       }
-   },
-   {
+    "closeLimit": 1,
+    "id": "ribbon-4th-feb-2026",
+    "text": "See AI Agent in Action. Book a 1:1 Demo with our in-house AI expert.",
+    "cta": {
+      "text": "Book Now",
+      "url": "https://calendar.app.google/Ck7q3MkRZyTMsLaj8"
+    },
+    "position": "top",
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "name": "youtubeOutlined",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": [
+        "Shopify"
+      ]
+    },
+    "pages": [
+      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 2,
+      "date": 11,
+      "hour": 24
+    }
+  },
+  {
+    "closeLimit": 1,
+    "id": "ribbon-31st-dec-2025",
+    "text": "WhatsApp Message Rates for few countries (including India) are getting revised from 1st Jan 2026.",
+    "theme": {
+      "bg": "#FFA500",
+      "color": "#ffffff"
+    },
+    "cta": {
+      "text": "See Details",
+      "url": "https://interaktprodmediastorage.blob.core.windows.net/mediaprodstoragecontainer/74d49d00-7a9b-4c70-82d8-76efab63a844/message_template_media/0EddWEu6JYbA/Pricing%20Comparison%20%28Old%20vs%20New%20Rates%29.pdf?se=2030-12-03T13%3A20%3A12Z&sp=rt&sv=2019-12-12&sr=b&sig=6FUXOCmpJjCa0ZVqL9Fsf4p/U4e6f5fyHXRsv%2BXwyXU%3D"
+    },
+    "filters": {
+      "signupSources": [
+        "salesCrm",
+        "Shopify",
+        "Traditional"
+      ]
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 1,
+      "date": 7,
+      "hour": 10
+    }
+  },
+  {
     "closeLimit": 1,
     "id": "ribbon-13th-nov-2025",
     "text": "[Meta x Interakt Webinar] Learn how to create & launch WhatsApp Ads that drive real sales on 20th November at 11:00 AM.",
@@ -102,9 +147,18 @@
         "Sales CRM",
         "Instagram Starter"
       ],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+      "signupSources": [
+        "salesCrm",
+        "Shopify",
+        "Traditional"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 11,
@@ -137,9 +191,18 @@
         "Sales CRM",
         "Instagram Starter"
       ],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+      "signupSources": [
+        "salesCrm",
+        "Shopify",
+        "Traditional"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 10,
@@ -165,10 +228,21 @@
       "color": "#ffffff"
     },
     "filters": {
-      "plans": ["Growth (free trial)"],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+      "plans": [
+        "Growth (free trial)"
+      ],
+      "signupSources": [
+        "salesCrm",
+        "Shopify",
+        "Traditional"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 10,
@@ -200,9 +274,18 @@
         "Advanced",
         "Sales CRM"
       ],
-      "signupSources": ["salesCrm", "Shopify", "Traditional"]
+      "signupSources": [
+        "salesCrm",
+        "Shopify",
+        "Traditional"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 9,
@@ -227,7 +310,12 @@
       "isInstaActive": true,
       "isInstaConnected": true
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/automation/quick-flows"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 9,
@@ -238,7 +326,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-28th-aug-2025",
-    "text": "Discover how Interakt’s WhatsApp Sales CRM can help you close more deals, faster—join our webinar every Wednesday at 11 AM! Register Now",
+    "text": "Discover how Interakt\u2019s WhatsApp Sales CRM can help you close more deals, faster\u2014join our webinar every Wednesday at 11 AM! Register Now",
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
@@ -248,9 +336,17 @@
       "url": "https://us06web.zoom.us/webinar/register/9017454766742/WN_xWmVLYaKRrOnht1ybm_d7Q"
     },
     "filters": {
-      "signupSources": ["salesCrm", "Traditional"]
+      "signupSources": [
+        "salesCrm",
+        "Traditional"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 10,
@@ -274,9 +370,17 @@
     "filters": {
       "isInstaActive": true,
       "isInstaConnected": true,
-      "plans": ["Growth (free trial)", "Instagram Starter"]
+      "plans": [
+        "Growth (free trial)",
+        "Instagram Starter"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/automation/quick-flows"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/automation/quick-flows"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 5,
@@ -287,7 +391,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-25th-april-2024",
-    "text": "Discover how Interakt’s WhatsApp Sales CRM can help you close more deals, faster—join our webinar every Wednesday at 11 AM!",
+    "text": "Discover how Interakt\u2019s WhatsApp Sales CRM can help you close more deals, faster\u2014join our webinar every Wednesday at 11 AM!",
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff"
@@ -297,9 +401,17 @@
       "url": "https://us06web.zoom.us/webinar/register/9017454766742/WN_xWmVLYaKRrOnht1ybm_d7Q"
     },
     "filters": {
-      "signupSources": ["salesCrm", "Traditional"]
+      "signupSources": [
+        "salesCrm",
+        "Traditional"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 5,
@@ -321,9 +433,17 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": ["Traditional", "Shopify"]
+      "signupSources": [
+        "Traditional",
+        "Shopify"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 3,
@@ -348,9 +468,15 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "pages": ["^(?!/(login|signup)$).*"],
+    "pages": [
+      "^(?!/(login|signup)$).*"
+    ],
     "filters": {
-      "signupSources": ["Shopify", "Traditional", "AdsPlan"]
+      "signupSources": [
+        "Shopify",
+        "Traditional",
+        "AdsPlan"
+      ]
     },
     "expireOn": {
       "year": 2025,
@@ -362,7 +488,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-6th-feb-2024",
-    "text": "🔒 Important Security Update 🔒 Please ensure that the phone number added to your profile can receive WhatsApp messages. We will soon be enabling 2FA on this platform, and OTPs will be sent to your phone number via WhatsApp listed on the Team Settings page. Kindly work with your account owner to update your number if needed to avoid any access issues.",
+    "text": "\ud83d\udd12 Important Security Update \ud83d\udd12 Please ensure that the phone number added to your profile can receive WhatsApp messages. We will soon be enabling 2FA on this platform, and OTPs will be sent to your phone number via WhatsApp listed on the Team Settings page. Kindly work with your account owner to update your number if needed to avoid any access issues.",
     "theme": {
       "bg": "#BE364E",
       "color": "#ffffff"
@@ -372,7 +498,12 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 2,
@@ -393,7 +524,12 @@
       "size": "small",
       "color": "#ffffff"
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2025,
       "month": 2,
@@ -415,13 +551,21 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": ["Shopify", "Traditional"]
+      "signupSources": [
+        "Shopify",
+        "Traditional"
+      ]
     },
     "cta": {
       "text": "Register Here",
       "url": "https://us06web.zoom.us/webinar/register/8117348715416/WN_bPoBICdXQF6UTqliMmCnJQ"
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 12,
@@ -471,13 +615,18 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": ["Shopify"]
+      "signupSources": [
+        "Shopify"
+      ]
     },
     "cta": {
       "text": "Register Now",
       "url": "https://us06web.zoom.us/webinar/register/9017210391293/WN_BLGUI-_bQ6WaREaJMPDWyA"
     },
-    "pages": ["/inbox", "/templates/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 7,
@@ -503,9 +652,16 @@
       "url": "https://us06web.zoom.us/webinar/register/7917180105175/WN_60lne4hnSZ60WA9ZKGFYyQ"
     },
     "filters": {
-      "signupSources": ["Shopify"]
+      "signupSources": [
+        "Shopify"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 6,
@@ -527,9 +683,14 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": ["Traditional", "Shopify"]
+      "signupSources": [
+        "Traditional",
+        "Shopify"
+      ]
     },
-    "pages": ["/templates/list"],
+    "pages": [
+      "/templates/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 6,
@@ -555,9 +716,17 @@
       "url": "https://us06web.zoom.us/webinar/register/1417146405066/WN_8VfcIfbUScquUbHo-4QnQg"
     },
     "filters": {
-      "signupSources": ["Traditional", "Shopify"]
+      "signupSources": [
+        "Traditional",
+        "Shopify"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 5,
@@ -611,9 +780,17 @@
       "url": "https://us06web.zoom.us/webinar/register/7217132680195/WN_rt97g_yKQPWdwbZLL1e10w"
     },
     "filters": {
-      "signupSources": ["Traditional", "Shopify"]
+      "signupSources": [
+        "Traditional",
+        "Shopify"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 4,
@@ -634,7 +811,9 @@
       "iconSize": "small",
       "color": "#ffffff"
     },
-    "pages": ["/inbox"],
+    "pages": [
+      "/inbox"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 4,
@@ -666,7 +845,12 @@
         "Haptik_Inbox_Plan"
       ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 4,
@@ -692,9 +876,17 @@
       "url": "https://www.youtube.com/watch?v=ryZu1tAqeVM"
     },
     "filters": {
-      "signupSources": ["Traditional", "Shopify"]
+      "signupSources": [
+        "Traditional",
+        "Shopify"
+      ]
     },
-    "pages": ["/inbox", "/templates/list", "^/notification$", "/contacts/list"],
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 2,
@@ -715,7 +907,9 @@
       "iconSize": "small",
       "color": "#ffffff"
     },
-    "pages": ["/payments/wallet"],
+    "pages": [
+      "/payments/wallet"
+    ],
     "expireOn": {
       "year": 2024,
       "month": 1,
@@ -726,7 +920,7 @@
   {
     "closeLimit": 1,
     "id": "ribbon-26th-dec-2023-A",
-    "text": "Please note, we will be performing a scheduled maintenance where there will be a downtime on Thursday, 28th December, 12:30 AM to 1:30 AM IST.\nDuring this time, Interakt messages won’t be sent or received and post the maintenance, all activities will be restored.",
+    "text": "Please note, we will be performing a scheduled maintenance where there will be a downtime on Thursday, 28th December, 12:30 AM to 1:30 AM IST.\nDuring this time, Interakt messages won\u2019t be sent or received and post the maintenance, all activities will be restored.",
     "theme": {
       "bg": "#FFA500",
       "color": "#ffffff"
@@ -736,7 +930,9 @@
       "iconSize": "small",
       "color": "#ffffff"
     },
-    "pages": ["/inbox"],
+    "pages": [
+      "/inbox"
+    ],
     "expireOn": {
       "year": 2023,
       "month": 12,
