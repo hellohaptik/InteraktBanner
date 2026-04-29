@@ -1,6 +1,44 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-29-april",
+    "text": "Never miss a call with MyCallGenie: India's #1 AI Call Receptionist",
+    "cta": {
+      "text": "Learn More",
+      "url": "/automation/my-call-genie"
+    },
+    "position": "top",
+    "priority": 1,
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "name": "campaignBlack",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": [
+        "Shopify",
+        "Traditional",
+        "AdsPlan",
+        "salesCrm"
+      ]
+    },
+    "pages": [
+      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 5,
+      "date": 9,
+      "hour": 19
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-13-mar-2026-142902",
     "text": "Downtime Ribbon Testing",
     "position": "top",
