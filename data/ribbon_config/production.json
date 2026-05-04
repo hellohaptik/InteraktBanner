@@ -1,6 +1,44 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-4-may",
+    "text": "Learn how to turn every missed call into a lead with MyCallGenie",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/3817778904674/WN_pRWJAcBBRTWnMU43_jnI1g"
+    },
+    "position": "top",
+    "priority": 1,
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "name": "campaignBlack",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": [
+        "Shopify",
+        "Traditional",
+        "AdsPlan",
+        "salesCrm"
+      ]
+    },
+    "pages": [
+      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 5,
+      "date": 14,
+      "hour": 11
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-29-april",
     "text": "Never miss a call with MyCallGenie: India's #1 AI Call Receptionist",
     "cta": {
@@ -8,7 +46,7 @@
       "url": "/automation/my-call-genie"
     },
     "position": "top",
-    "priority": 1,
+    "priority": 2,
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff",
