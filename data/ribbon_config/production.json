@@ -12,10 +12,10 @@
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff",
-      "variant": "primary"
+      "variant": "primaryV2"
     },
     "icon": {
-      "name": "campaignBlack",
+      "name": "youtubeOutlined",
       "size": "small",
       "color": "#ffffff"
     },
