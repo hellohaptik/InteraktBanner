@@ -1,6 +1,41 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-28-may",
+    "text": "5th June at 12 PM | Connect Zoho CRM with Interakt and put your customer follow-ups on autopilot",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
+    },
+    "position": "top",
+    "priority": 1,
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primaryV2"
+    },
+    "icon": {
+      "name": "youtubeOutlined",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": [ 
+        "Traditional"
+      ]
+    },
+    "pages": [
+      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 6,
+      "date": 5,
+      "hour": 10
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-4-may",
     "text": "14th May at 11 AM | Learn how to turn every missed call into a lead with MyCallGenie",
     "cta": {
