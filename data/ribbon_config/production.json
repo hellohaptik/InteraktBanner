@@ -1,8 +1,8 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-28-may",
-    "text": "5th June at 12 PM | Connect Zoho CRM with Interakt and put your customer follow-ups on autopilot",
+    "id": "ribbon-5-june",
+    "text": "12th June at 12 PM | Turn your Google Sheets into a WhatsApp automation powerhouse",
     "cta": {
       "text": "Register Now",
       "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
@@ -30,7 +30,7 @@
     "expireOn": {
       "year": 2026,
       "month": 6,
-      "date": 5,
+      "date": 12,
       "hour": 10
     }
   },
