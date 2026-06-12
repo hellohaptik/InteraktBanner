@@ -1,6 +1,33 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-12th-june-2026",
+    "text": "Meta/Whatsapp APIs is facing outage, we are working with them to get it resolved.",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff"
+    },
+    "position": "top",
+    "priority": 1,
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 6,
+      "date": 13,
+      "hour": 10
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-5-june",
     "text": "12th June at 12 PM | Turn your Google Sheets into a WhatsApp automation powerhouse",
     "cta": {
@@ -8,7 +35,7 @@
       "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
     },
     "position": "top",
-    "priority": 1,
+    "priority": 2,
     "theme": {
       "bg": "#3C74F3",
       "color": "#ffffff",
