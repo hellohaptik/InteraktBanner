@@ -1,33 +1,36 @@
 {
-    "settings_webview": false,
-    "analytics_webview": true,
-    "analytics_native": false,
-    "wallet": false,
-    "business_profile_native": true,
-    "multi_image": true,
-    "business_profile_onboarding": {
-        "logo": true,
-        "description": true,
-        "ooo": true,
-        "greeting": true,
-        "contacts_sync": true
-    },
-    "v2_login_whitelist": [
-        "__all__"
-    ],
-    "agent_availablity_whitelist": [
-        "ba4308f1-a506-44d2-a8c3-17380216cf91",
-        "b5d58329-e464-4eef-9250-701313b4bd21",
-        "b5a09a10-93e2-4e2d-b7d3-46efa9c5f107",
-        "a589d249-551c-4303-bfc3-30e9bcaebdcf",
-        "c2dfc5cc-fa1d-40c6-ba8d-815f6736b0f6",
-        "55ddfee4-3afd-45cc-a80e-d1643bd09a00",
-        "3e204a06-5335-4818-be42-3bd26971e45b",
-        "6bca0ddd-b9ad-48c8-944e-00898f0dd50c",
-        "d98c7465-d502-4af2-9a54-d5f5a1a8e9f6",
-        "718c08d2-3d64-4db7-8d00-7bf40ec3fbaa"
-    ],
-    "template_button_blacklist": [
-        "mpm"
-    ]
+  "settings_webview": false,
+  "analytics_webview": true,
+  "analytics_native": false,
+  "wallet": false,
+  "business_profile_native": true,
+  "multi_image": true,
+  "business_profile_onboarding": {
+    "logo": true,
+    "description": true,
+    "ooo": true,
+    "greeting": true,
+    "contacts_sync": true
+  },
+  "v2_login_whitelist": [
+    "__all__"
+  ],
+  "agent_availablity_whitelist": [
+    "ba4308f1-a506-44d2-a8c3-17380216cf91",
+    "b5d58329-e464-4eef-9250-701313b4bd21",
+    "b5a09a10-93e2-4e2d-b7d3-46efa9c5f107",
+    "a589d249-551c-4303-bfc3-30e9bcaebdcf",
+    "c2dfc5cc-fa1d-40c6-ba8d-815f6736b0f6",
+    "55ddfee4-3afd-45cc-a80e-d1643bd09a00",
+    "3e204a06-5335-4818-be42-3bd26971e45b",
+    "6bca0ddd-b9ad-48c8-944e-00898f0dd50c",
+    "d98c7465-d502-4af2-9a54-d5f5a1a8e9f6",
+    "718c08d2-3d64-4db7-8d00-7bf40ec3fbaa"
+  ],
+  "native_customer_details_whitelist": [
+    "1989a6db-1edd-4ffa-a7a5-ff8c15b38b95"
+  ],
+  "template_button_blacklist": [
+    "mpm"
+  ]
 }
