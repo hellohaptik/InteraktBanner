@@ -1,6 +1,41 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-15-june",
+    "text": "19th June at 12 PM | Stop losing warm leads - learn how to instantly follow up on every Facebook lead via WhatsApp",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
+    },
+    "position": "top",
+    "priority": 1,
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primaryV2"
+    },
+    "icon": {
+      "name": "youtubeOutlined",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": [ 
+        "Traditional"
+      ]
+    },
+    "pages": [
+      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 6,
+      "date": 19,
+      "hour": 10
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-12th-june-2026",
     "text": "Meta/Whatsapp APIs is facing outage, we are working with them to get it resolved.",
     "theme": {
@@ -24,79 +59,6 @@
       "month": 6,
       "date": 13,
       "hour": 10
-    }
-  },
-  {
-    "closeLimit": 1,
-    "id": "ribbon-5-june",
-    "text": "12th June at 12 PM | Turn your Google Sheets into a WhatsApp automation powerhouse",
-    "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
-    },
-    "position": "top",
-    "priority": 2,
-    "theme": {
-      "bg": "#3C74F3",
-      "color": "#ffffff",
-      "variant": "primaryV2"
-    },
-    "icon": {
-      "name": "youtubeOutlined",
-      "size": "small",
-      "color": "#ffffff"
-    },
-    "filters": {
-      "signupSources": [ 
-        "Traditional"
-      ]
-    },
-    "pages": [
-      "^/(?!login(?:/|$)|signup(?:/|$)).*"
-    ],
-    "expireOn": {
-      "year": 2026,
-      "month": 6,
-      "date": 12,
-      "hour": 10
-    }
-  },
-  {
-    "closeLimit": 1,
-    "id": "ribbon-4-may",
-    "text": "14th May at 11 AM | Learn how to turn every missed call into a lead with MyCallGenie",
-    "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/3817778904674/WN_pRWJAcBBRTWnMU43_jnI1g"
-    },
-    "position": "top",
-    "priority": 1,
-    "theme": {
-      "bg": "#3C74F3",
-      "color": "#ffffff",
-      "variant": "primaryV2"
-    },
-    "icon": {
-      "name": "youtubeOutlined",
-      "size": "small",
-      "color": "#ffffff"
-    },
-    "filters": {
-      "signupSources": [
-        "Shopify",
-        "Traditional",
-        "AdsPlan",
-        "salesCrm"
-      ]
-    },
-    "pages": [
-      "^/(?!login(?:/|$)|signup(?:/|$)).*"
-    ],
-    "expireOn": {
-      "year": 2026,
-      "month": 5,
-      "date": 14,
-      "hour": 11
     }
   },
   {
