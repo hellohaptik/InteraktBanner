@@ -52,7 +52,7 @@
     "pages": [
       "/inbox",
       "/templates/list",
-      "^/notification$",
+      "^/notification$"
     ],
     "expireOn": {
       "year": 2026,
