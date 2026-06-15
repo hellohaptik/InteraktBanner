@@ -1,11 +1,11 @@
 [
-  {
+    {
     "closeLimit": 1,
-    "id": "ribbon-4-may",
-    "text": "Learn how to turn every missed call into a lead  with MyCallGenie",
+    "id": "ribbon-15-june",
+    "text": "19th June at 12 PM | :rocket: Stop losing warm leads - learn how to instantly follow up on every Facebook lead via WhatsApp",
     "cta": {
       "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/3817778904674/WN_pRWJAcBBRTWnMU43_jnI1g"
+      "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
     },
     "position": "top",
     "priority": 1,
@@ -20,11 +20,8 @@
       "color": "#ffffff"
     },
     "filters": {
-      "signupSources": [
-        "Shopify",
-        "Traditional",
-        "AdsPlan",
-        "salesCrm"
+      "signupSources": [ 
+        "Traditional"
       ]
     },
     "pages": [
@@ -32,9 +29,9 @@
     ],
     "expireOn": {
       "year": 2026,
-      "month": 5,
-      "date": 14,
-      "hour": 11
+      "month": 6,
+      "date": 19,
+      "hour": 10
     }
   },
   {
