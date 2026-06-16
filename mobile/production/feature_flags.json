@@ -28,7 +28,8 @@
     "718c08d2-3d64-4db7-8d00-7bf40ec3fbaa"
   ],
   "native_customer_details_whitelist": [
-    "1989a6db-1edd-4ffa-a7a5-ff8c15b38b95"
+    "1989a6db-1edd-4ffa-a7a5-ff8c15b38b95",
+    "ba4308f1-a506-44d2-a8c3-17380216cf91"
   ],
   "template_button_blacklist": [
     "mpm"
