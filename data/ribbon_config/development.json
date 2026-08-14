@@ -2,10 +2,10 @@
   {
     "closeLimit": 1,
     "id": "ribbon-15-june",
-    "text": "19th June at 12 PM | :rocket: Stop losing warm leads - learn how to instantly follow up on every Facebook lead via WhatsApp",
+    "text": "19th August at 12 PM | Join our live SOLO webinar and see your AI team in action.",
     "cta": {
       "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/1017798833431/WN_JvYAAhAnSrGcu8s-1TcfRA"
+      "url": "https://us06web.zoom.us/webinar/register/4017867050060/WN_H6Z031UORh-xKg5kISsRyg"
     },
     "position": "top",
     "priority": 1,
@@ -21,7 +21,8 @@
     },
     "filters": {
       "signupSources": [ 
-        "Traditional"
+        "Traditional",
+        "Shopify"
       ]
     },
     "pages": [
@@ -29,7 +30,7 @@
     ],
     "expireOn": {
       "year": 2026,
-      "month": 6,
+      "month": 8,
       "date": 19,
       "hour": 10
     }
