@@ -1,11 +1,11 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-15-june",
-    "text": "26th June at 11 AM | [Webinar] Develop & Deploy AI Agents on WhatsApp in 10 minutes",
+    "id": "ribbon-14-august",
+    "text": "19th August at 12 PM | Join our live SOLO webinar and see your AI team in action.",
     "cta": {
       "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/7417818621697/WN_PnZc_1xxQkqvZ2SBGS0HHw"
+      "url": "https://us06web.zoom.us/webinar/register/4017867050060/WN_H6Z031UORh-xKg5kISsRyg"
     },
     "position": "top",
     "priority": 1,
@@ -21,7 +21,8 @@
     },
     "filters": {
       "signupSources": [ 
-        "Traditional"
+        "Traditional",
+        "Shopify"
       ]
     },
     "pages": [
@@ -29,8 +30,8 @@
     ],
     "expireOn": {
       "year": 2026,
-      "month": 6,
-      "date": 26,
+      "month": 8,
+      "date": 19,
       "hour": 10
     }
   },
