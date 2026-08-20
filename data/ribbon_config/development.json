@@ -7,7 +7,8 @@
     "priority": 1,
     "theme": {
       "bg": "#BE364E",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "variant": "alert"
     },
     "icon": {
       "name": "bell",
