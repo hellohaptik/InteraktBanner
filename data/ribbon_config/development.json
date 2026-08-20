@@ -9,11 +9,6 @@
       "bg": "#BE364E",
       "color": "#ffffff"
     },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
     "filters": {
       "signupSources": [ 
         "Traditional",
