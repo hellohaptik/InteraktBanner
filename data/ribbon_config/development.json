@@ -9,6 +9,11 @@
       "bg": "#BE364E",
       "color": "#ffffff"
     },
+    "icon": {
+      "name": "bell",
+      "size": "small",
+      "color": "#ffffff"
+    },
     "filters": {
       "signupSources": [ 
         "Traditional",
