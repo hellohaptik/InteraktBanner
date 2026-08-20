@@ -11,8 +11,8 @@
       "variant": "alert"
     },
     "icon": {
-      "iconName": "bell",
-      "iconSize": "small",
+      "name": "bell",
+      "size": "small",
       "color": "#ffffff"
     },
     "filters": {
