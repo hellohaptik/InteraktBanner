@@ -1,22 +1,17 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-14-aug",
-    "text": "19th August at 12 PM | Join our live SOLO webinar and see your AI team in action.",
-    "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/4017867050060/WN_H6Z031UORh-xKg5kISsRyg"
-    },
+    "id": "ribbon-20-august",
+    "text": "Marketing template messages may be facing some disruptions. We're working with Meta team and will share an update soon.",
     "position": "top",
     "priority": 1,
     "theme": {
-      "bg": "#3C74F3",
-      "color": "#ffffff",
-      "variant": "primaryV2"
+      "bg": "#BE364E",
+      "color": "#ffffff"
     },
     "icon": {
-      "name": "youtubeOutlined",
-      "size": "small",
+      "iconName": "campaignBlack",
+      "iconSize": "small",
       "color": "#ffffff"
     },
     "filters": {
@@ -26,12 +21,12 @@
       ]
     },
     "pages": [
-      "^/(?!login(?:/|$)|signup(?:/|$)).*"
+      "/inbox"
     ],
     "expireOn": {
       "year": 2026,
       "month": 8,
-      "date": 19,
+      "date": 21,
       "hour": 10
     }
   },
