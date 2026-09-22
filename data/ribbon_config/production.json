@@ -1,6 +1,31 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-23-sep-2026-182708",
+    "text": "We are facing some issues with our cloud provider and working with them to recover.",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": [
+      "^/(?!signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 9,
+      "date": 23,
+      "hour": 12
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-20-august",
     "text": "Marketing template messages may be facing some disruptions. We're working with Meta team and will share an update soon.",
     "position": "top",
