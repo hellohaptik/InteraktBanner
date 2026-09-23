@@ -1,31 +1,6 @@
 [
   {
     "closeLimit": 1,
-    "id": "ribbon-23-sep-2026-194442",
-    "text": "Your messages are being sent successfully. Our message status pipeline is currently recovering, so status updates may be delayed for some time. We\u2019re actively monitoring the recovery.",
-    "position": "top",
-    "theme": {
-      "bg": "#BE364E",
-      "color": "#ffffff",
-      "variant": "alert"
-    },
-    "icon": {
-      "iconName": "campaignBlack",
-      "iconSize": "small",
-      "color": "#ffffff"
-    },
-    "pages": [
-      "^/(?!signup(?:/|$)).*"
-    ],
-    "expireOn": {
-      "year": 2026,
-      "month": 9,
-      "date": 23,
-      "hour": 12
-    }
-  },
-  {
-    "closeLimit": 1,
     "id": "ribbon-20-august",
     "text": "Marketing template messages may be facing some disruptions. We're working with Meta team and will share an update soon.",
     "position": "top",
