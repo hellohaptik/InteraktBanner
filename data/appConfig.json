@@ -1,10 +1,12 @@
 {
   "development": {
     "disable_template_appeal": false,
-    "enable_convo_bot_for_paid_plans": true
+    "enable_convo_bot_for_paid_plans": true,
+    "enable_screen_pilot": true
   },
   "production": {
     "disable_template_appeal": false,
-    "enable_convo_bot_for_paid_plans": true
+    "enable_convo_bot_for_paid_plans": true,
+    "enable_screen_pilot": true
   }
 }
