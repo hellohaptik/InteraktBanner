@@ -1,6 +1,31 @@
 [
   {
     "closeLimit": 1,
+    "id": "ribbon-30-sept-2026-142902",
+    "text": "Testing DownTimeRibbon {{datetime:2026-08-21T10:00:00Z}}",
+    "position": "top",
+    "theme": {
+      "bg": "#BE364E",
+      "color": "#ffffff",
+      "variant": "alert"
+    },
+    "icon": {
+      "iconName": "campaignBlack",
+      "iconSize": "small",
+      "color": "#ffffff"
+    },
+    "pages": [
+      "^/(?!signup(?:/|$)).*"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 10,
+      "date": 1,
+      "hour": 15
+    }
+  },
+  {
+    "closeLimit": 1,
     "id": "ribbon-20-august",
     "text": "Marketing template messages may be facing some disruptions. We're working with Meta team and will share an update soon.",
     "position": "top",
