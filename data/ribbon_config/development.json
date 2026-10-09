@@ -4,9 +4,9 @@
     "id": "ribbon-9-Oct",
     "text": "[Workshop] Get your Shopify store Diwali-ready | 22nd Oct @ 11 AM",
     "cta": {
-      "text": "Register Now",
-      "url": "https://us06web.zoom.us/webinar/register/5317914594746/WN_y0KK_dcATnmdXkAz-Gw2Pg"
-    },
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/5317914594746/WN_y0KK_dcATnmdXkAz-Gw2Pg"
+    },
     "position": "top",
     "priority": 1,
     "theme": {
@@ -25,10 +25,10 @@
       ]
     },
     "pages": [
-      "/inbox",
-      "/templates/list",
-      "^/notification$",
-      "/contacts/list"
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
     ],
     "expireOn": {
       "year": 2026,
