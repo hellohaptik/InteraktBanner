@@ -1,4 +1,42 @@
 [
+   {
+    "closeLimit": 1,
+    "id": "ribbon-9-Oct",
+    "text": "[Workshop] Get your Shopify store Diwali-ready | 22nd Oct @ 11 AM",
+    "cta": {
+      "text": "Register Now",
+      "url": "https://us06web.zoom.us/webinar/register/5317914594746/WN_y0KK_dcATnmdXkAz-Gw2Pg"
+    },
+    "position": "top",
+    "priority": 1,
+    "theme": {
+      "bg": "#3C74F3",
+      "color": "#ffffff",
+      "variant": "primary"
+    },
+    "icon": {
+      "name": "youtubeOutlined",
+      "size": "small",
+      "color": "#ffffff"
+    },
+    "filters": {
+      "signupSources": [ 
+        "Shopify"
+      ]
+    },
+    "pages": [
+      "/inbox",
+      "/templates/list",
+      "^/notification$",
+      "/contacts/list"
+    ],
+    "expireOn": {
+      "year": 2026,
+      "month": 10,
+      "date": 22,
+      "hour": 11
+    }
+  },
   {
     "closeLimit": 1,
     "id": "ribbon-30-sept-2026-142902",
