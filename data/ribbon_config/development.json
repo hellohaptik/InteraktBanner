@@ -29,7 +29,7 @@
       "/templates/list",
       "^/notification$",
       "/contacts/list"
-    ],
+    ],
     "expireOn": {
       "year": 2026,
       "month": 10,
